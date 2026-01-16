@@ -18,7 +18,7 @@ function Button({
 
     return (
         <button
-            className={`bg-gray-400 text-xl p-3 items-center flex justify-center rounded-lg transition duration-150 ease-in-out shadow-md hover:shadow-lg font-semibold text-black active:scale-95 ${className}`}
+            className={`bg-purple-200 text-xl p-3 items-center flex justify-center rounded-lg transition duration-150 ease-in-out shadow-md hover:shadow-lg font-semibold text-black active:scale-95 ${className}`}
             style={{ width, height, fontSize: textSize }}
         >
             Login / Sign up

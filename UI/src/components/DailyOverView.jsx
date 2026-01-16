@@ -18,7 +18,7 @@ function DailyOverView() {
                 </div>
                 <div className='flex flex-col w-full mt-2'>
                     {data.map((item) => (
-                        <div key={item.id} className='flex flex-row items-center py-3 transition-colors bg-gray-200 mx-1.5 my-0.5 rounded-2xl'>
+                        <div key={item.id} className='flex flex-row items-center py-3 transition-colors bg-white border-1 border-black mx-1.5 my-0.5 rounded-2xl'>
                             <div className='flex flex-col w-1/3 text-center'>
                                 <span className='text-xs font-semibold text-gray-500'>{item.date}</span>
                                 <span className='text-sm font-bold text-gray-600'>{item.time}</span>

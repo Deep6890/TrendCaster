@@ -14,18 +14,23 @@ function Card({
     isPositive = true,
     showExploreButton = false,
     Children,
-    Header = "Hii",
-    headerClassName = 'flex w-full items-start text-xl font-semibold',
-    childClassName = "w-full"
+    Header = "",
+    headerClassName = '',
+    childClassName = "w-full",
+    footerClass = 'flex w-full items-center justify-between',
+    footer = "Explore More"
 }) {
     if (variant === 'bento') {
         return (
-            <div className={`flex ${width} ${height} border-1 flex flex-col p-2 border-black rounded-2xl ${className}`}>
+            <div className={`flex ${width} ${height} border-1 flex flex-col p-2 border-black rounded-2xl justify-between${className}`}>
                 <div className={headerClassName}>
                     {Header}
                 </div>
                 <div className={childClassName}>
                     {Children}
+                </div>
+                <div className={footerClass}>
+                    {footer}
                 </div>
             </div>
         )
