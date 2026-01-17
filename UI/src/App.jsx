@@ -5,6 +5,10 @@ import { TrendingSectors } from "../src/components/sections/TrendingSectors"
 import DailyOverView from "./components/DailyOverView"
 import ChartCard from './components/charts/ChartCard';
 import { useEffect, useState } from 'react';
+import MarketOverviewCard from './components/cards/MarketOverviewCard';
+import { MarkPlot } from '@mui/x-charts';
+import MarketTermsSection from './components/sections/MarketTermsSection';
+import SectorsPerformenceHub from './components/sections/SectorsPerformenceHub';
 
 function App() {
 
@@ -27,17 +31,9 @@ function App() {
     <>
       <div className="flex w-full flex-col min-h-auto bg-white justify-center items-center">
         <Navbar />
-        <div className="flex items-center justify-center w-full flex-row p-6 gap-6">
-          <div className="w-[60%]">
-            <TrendingSectors />
-          </div>
-          <div className="w-[35%]">
-            <DailyOverView />
-          </div>
-        </div>
-        <ChartCard dataset={dataset} />
+        <MarketTermsSection />
+        <SectorsPerformenceHub />
       </div>
-      {/* <div className='flex flex-rows justify-between'><div className='flex flex-col w-[70%]]'><BentoGrid /></div></div> */}
     </>
   )
 }

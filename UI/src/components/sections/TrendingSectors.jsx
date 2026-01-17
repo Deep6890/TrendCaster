@@ -11,17 +11,18 @@ export const TrendingSectors = () => {
 
     return (
         <Container variant='section'>
-            <div className='w-full mb-6 px-4 py-3 bg-gradient-to-r from-emerald-100 to-emerald-50 border-l-4 border-gray-600 rounded-r-lg'>
-                <h2 className='font-semibold text-xl text-gray-800'>
-                    Price Rising Sectors
+            <div className='w-full mb-4 px-4 py-3 border-gray-600'>
+                <h2 className='font-semibold text-3xl text-gray-800'>
+                    Overview of all the sections
                 </h2>
             </div>
-            <div className='flex overflow-x-auto gap-6 p-4 w-full no-scrollbar'>
+            <div className='flex overflow-x-auto gap-6 p-2 w-full no-scrollbar'>
                 {cardData.map((item) => {
                     return (
                         <div key={item.id} className="flex-shrink-0">
                             <Card
-                                variant='thumbnail'
+                                text="Pharma"
+                                growthText="Not in very good position"
                                 width='220px'
                                 height='260px'
                                 showExploreButton={true}
