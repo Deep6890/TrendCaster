@@ -1,48 +1,51 @@
-# Dependencies
-node_modules/
+# Virtual Environment
 venv/
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Build artifacts
-/UI/build
-/UI/dist
-/UI/out
-/UI/coverage
-
-# Environment variables
+venv12/
+env/
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs and cache
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.parcel-cache
-.cache
-.eslintcache
-*.log
-
-# IDE specific files
-.idea/
-.vscode/
-*.swp
-.DS_Store
-
-# Data files (optional - uncomment if needed)
-# /DATA/*.csv
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
 
 # Python
-*.egg-info/
-dist/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Node modules
+node_modules/
+
+# Build outputs
+*.min.js
+*.min.css

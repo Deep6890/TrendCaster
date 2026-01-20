@@ -1,41 +1,45 @@
-import React from 'react';
-import BentoGrid from "../src/components/sections/BentoForTredNews"
+import { useEffect, useState } from "react"
 import Navbar from "../src/components/sections/Navbar"
-import { TrendingSectors } from "../src/components/sections/TrendingSectors"
-import DailyOverView from "./components/DailyOverView"
-import ChartCard from './components/charts/ChartCard';
-import { useEffect, useState } from 'react';
-import MarketOverviewCard from './components/cards/MarketOverviewCard';
-import { MarkPlot } from '@mui/x-charts';
-import MarketTermsSection from './components/sections/MarketTermsSection';
-import SectorsPerformenceHub from './components/sections/SectorsPerformenceHub';
+import ChartsBase from "./components/cards/ChartsBase"
+import MarketTermsSection from "./components/sections/MarketTermsSection"
+import SectorsPerformenceHub from "./components/sections/SectorsPerformenceHub"
+import { createClient } from "@supabase/supabase-js"
+
+const supabaseUrl = "https://vgfgahiplrdblbwhapsv.supabase.co"
+const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZnZmdhaGlwbHJkYmxid2hhcHN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg5MjA0NDIsImV4cCI6MjA4NDQ5NjQ0Mn0.s3jxDmOxtxnT3RI6fTJNWrLhONCr-WlYf5peoZjjSls"
+
+export const supabase = createClient(supabaseUrl, supabaseKey)
 
 function App() {
+  const [data, setData] = useState([])
+  const [error, setError] = useState(null)
 
-  const [dataset, setDataset] = useState([]);
   useEffect(() => {
-    fetch('http://127.0.0.1:5000/api/data')
-      .then(res => res.json())
-      .then(raw => {
-        const data = typeof raw === 'string' ? JSON.parse(raw) : raw;
+    const fetchData = async () => {
+      const { data, error } = await supabase
+        .from("test_table")
+        .select("*")
 
-        const formatted = data.map((row, i) => ({
-          index: i + 1,
-          close: row.Close,
-        }));
+      if (error) {
+        console.error(error)
+        setError(error)
+      } else {
+        console.log(data)
+        setData(data)
+      }
+    }
 
-        setDataset(formatted);
-      });
-  }, []);
+    fetchData()
+  }, [])
+
   return (
-    <>
-      <div className="flex w-full flex-col min-h-auto bg-white justify-center items-center">
-        <Navbar />
-        <MarketTermsSection />
-        <SectorsPerformenceHub />
-      </div>
-    </>
+    <div className="flex w-full flex-col min-h-auto bg-white justify-center items-center">
+      <Navbar />
+      <MarketTermsSection />
+      <SectorsPerformenceHub />
+      <ChartsBase header="Bar chart" subheader="Hii" />
+    </div>
   )
 }
 
-export default App;
+export default App
