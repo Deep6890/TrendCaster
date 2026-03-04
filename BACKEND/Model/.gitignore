@@ -1,8 +1,0 @@
-# Python virtual environment
-venv/
-.venv/
-__pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
