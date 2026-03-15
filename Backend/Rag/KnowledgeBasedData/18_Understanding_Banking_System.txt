@@ -1,0 +1,143 @@
+================================================================
+FILE 18: HOW THE BANKING SYSTEM WORKS — EXPLAINED FOR EVERYONE
+================================================================
+Why banks fail, how your money is protected, and what you must know
+================================================================
+
+HOW BANKS ACTUALLY WORK (THE SURPRISING REALITY)
+================================================================
+Most people believe banks store their deposited money in a vault and lend out other 
+people's money. This mental model is wrong in an important way. Banks operate on 
+a fractional reserve system — when you deposit ₹1,000 in a bank, the bank keeps 
+only a small fraction (the Cash Reserve Ratio, currently 4% in India) and loans out 
+the rest to other borrowers. Those borrowers spend the money, it gets deposited 
+elsewhere, and that bank in turn keeps a fraction and lends out the rest. The same 
+original deposit travels through the system multiple times, with the banking system 
+as a whole creating far more credit than the original deposits would suggest.
+
+This is called the money multiplier effect. ₹100 deposited in the banking system 
+can result in ₹1,000 to ₹2,500 of total lending through the chain — depending on 
+the reserve ratio and how efficiently banks lend. The RBI manages this process 
+through the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), which 
+together determine how much of every deposit banks must hold back rather than lend.
+
+Understanding this explains why bank runs are so dangerous. If enough depositors 
+simultaneously demand their money back, the bank cannot physically produce it 
+because it has been lent out. This is precisely what happened to Silicon Valley Bank 
+in the US in 2023 — a classic bank run in the digital age, where word spread on 
+social media and billions were withdrawn within hours.
+
+================================================================
+HOW YOUR MONEY IS PROTECTED IN INDIA
+================================================================
+DICGC (Deposit Insurance and Credit Guarantee Corporation) insures bank deposits 
+up to ₹5 lakh per depositor per bank. This means if a bank fails, you are guaranteed 
+to receive back up to ₹5 lakh of your total deposits at that bank — irrespective of 
+which type of account (savings, FD, current, RD).
+
+Critical points about this insurance: The ₹5 lakh limit is per depositor per bank — 
+not per account. If you have ₹3 lakh in a savings account and ₹4 lakh in FDs at the 
+same bank, your total insured amount is ₹5 lakh, not ₹7 lakh. To protect amounts 
+above ₹5 lakh, you must spread deposits across multiple banks.
+
+Practical implication for risk management: If you have significant savings (above 
+₹10-15 lakh), distribute them across at least two to three banks. Keep ₹5 lakh or 
+less per bank beyond what you need for day-to-day banking. This simple step fully 
+protects your deposits against any single bank failure, regardless of the bank's 
+financial health.
+
+The relative safety hierarchy of banks in India (from safest to higher-risk):
+  Scheduled commercial banks (SBI, HDFC, ICICI, Kotak): Highest safety. 
+  Most have very low probability of failure. SBI is effectively government-backed.
+  
+  Small Finance Banks (AU, ESAF, Jana, etc.): RBI-regulated but smaller. 
+  Offer higher interest rates because they carry marginally more risk. The ₹5 lakh 
+  DICGC insurance applies here too. Limiting deposits to ₹5 lakh per small finance 
+  bank is prudent.
+  
+  Cooperative banks: Have historically had higher failure rates in India. 
+  The 2019 PMC Bank crisis (where depositors were locked out of their own money) 
+  is a cautionary example. Keep exposures to cooperative banks minimal.
+  
+  Non-Banking Financial Companies (NBFCs): These are NOT banks. Deposits in 
+  NBFCs (some accept public deposits) are NOT covered by DICGC insurance. They can 
+  offer higher rates but carry higher risk. Limit NBFC deposits to small amounts 
+  you can afford to lose in a worst case.
+
+================================================================
+THE RBI'S ROLE — INDIA'S ECONOMIC GUARDIAN
+================================================================
+The Reserve Bank of India functions as: the nation's central bank, the regulator 
+of commercial banks, the issuer of currency, the manager of India's foreign 
+exchange reserves, and the conductor of monetary policy. Understanding what the 
+RBI does and how it makes decisions helps you anticipate economic changes that 
+directly affect your household.
+
+The RBI Monetary Policy Committee (MPC) meets 6 times a year and makes two 
+key decisions each time. First, whether to raise, lower, or hold the repo rate 
+(the rate at which RBI lends to banks). Second, the policy stance — whether the 
+MPC is focused more on fighting inflation ("withdrawal of accommodation") or 
+supporting growth ("accommodative"). The stance signals the direction of future 
+rate moves even when the rate itself does not change that meeting.
+
+The RBI also regulates bank health through the following tools. The CRR (Cash 
+Reserve Ratio), currently 4%, requires banks to hold that percentage of deposits 
+as cash with the RBI — earning zero interest. This limits the money supply. The 
+SLR (Statutory Liquidity Ratio), currently 18%, requires banks to hold that 
+percentage in liquid government securities. Together, CRR + SLR = 22% of deposits 
+held back from lending. When the RBI raises CRR, less money is available for 
+lending — a tightening move.
+
+================================================================
+WHAT TRIGGERS A BANKING CRISIS AND THE WARNING SIGNS
+================================================================
+Banking crises typically have four precursors. The first is rapid expansion of 
+credit without adequate risk assessment — banks lending aggressively during boom 
+periods to borrowers who would not qualify in normal times. The second is 
+concentration risk — a bank having too much exposure to a single sector (real 
+estate, for instance) or a single large borrower group. The third is asset-liability 
+mismatch — borrowing short (accepting 1-3 year deposits) while lending long 
+(giving 15-20 year home loans). The fourth is poor governance — management taking 
+excessive risks, connected lending to promoters or insiders, fraudulent accounting.
+
+India's banking sector went through its own NPA (Non-Performing Assets) crisis 
+between 2015 and 2021, when bad loan ratios at government-owned banks peaked 
+at over 11% — meaning 11 rupees of every 100 rupees lent was not being repaid. 
+This required significant recapitalization by the government (using taxpayer money) 
+and forced consolidation of public sector banks.
+
+Warning signs that a bank may be in distress (applicable to consumers monitoring 
+their bank's health): Consistently high NPA ratios (check the bank's annual report 
+or banking news), frequent management changes or regulatory interventions, 
+difficulty accessing deposits or slow processing (an early warning of liquidity 
+stress), RBI imposing restrictions on withdrawals (the ultimate warning sign — 
+though by this point it is too late to act).
+
+The practical consumer response: Maintain diversification across banks, stay within 
+DICGC limits at any single bank, and monitor RBI news for any regulatory action 
+on banks where you hold significant deposits.
+
+================================================================
+HOW DIGITAL BANKING AND UPI HAVE CHANGED RISK
+================================================================
+The digitization of Indian banking through UPI, internet banking, and mobile apps 
+has created enormous convenience but also introduced new risks that did not exist 
+in the era of branch-only banking.
+
+The specific risks every digital banking user faces: Phishing attacks (fraudulent 
+messages or calls impersonating bank officials or government agencies), SIM-swap 
+fraud (fraudsters convincing mobile carriers to issue them a new SIM for your 
+number, then taking over your 2FA-protected accounts), vishing (voice phishing — 
+calls that seem legitimate asking for OTPs or card details), and UPI payment fraud 
+(requests to "collect" money that actually debit your account).
+
+The most important protective rule is absolute: No bank, government agency, or 
+legitimate company will ever ask for your OTP, PIN, CVV number, or full card 
+details over the phone or via a link. Any such request is 100% a fraud attempt, 
+with zero exceptions. This rule applies even if the caller has partial information 
+about you (which fraudsters can obtain from data leaks). Never share OTPs or PIN 
+under any circumstances.
+
+================================================================
+END OF FILE 18
+================================================================

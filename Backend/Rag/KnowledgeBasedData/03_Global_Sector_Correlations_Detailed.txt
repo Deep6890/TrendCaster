@@ -1,0 +1,270 @@
+================================================================
+FILE 03: GLOBAL ECONOMIC SECTOR CORRELATIONS — DETAILED ANALYSIS
+================================================================
+Sectors Covered: Gold, Crude Oil, USD Index, Equities, Bonds, 
+                 Currencies, Agricultural Commodities, Real Estate
+================================================================
+
+UNDERSTANDING CORRELATIONS FIRST
+================================================================
+A correlation tells you how two assets move relative to each other.
+  Positive correlation = they move in the same direction
+  Negative correlation = they move in opposite directions
+  Zero correlation = they move independently
+
+In economics, nothing is perfectly correlated forever. Correlations shift based on 
+global conditions, geopolitical events, and monetary policy cycles. What this file 
+provides is the typical, historically observed behaviour and why it exists.
+
+================================================================
+SECTOR 1: GOLD (XAU/USD)
+================================================================
+
+WHAT MOVES GOLD UP:
+  - When the US dollar weakens: Gold is priced in USD globally. When the dollar falls, 
+    gold becomes cheaper for foreign buyers, demand increases, price rises. This is the 
+    most consistent driver of gold prices over time.
+
+  - When inflation rises: Gold has been used as a store of value for thousands of years. 
+    When people fear paper currency is losing purchasing power, they shift to gold as a 
+    hedge. In 2022-2023, when global inflation hit 40-year highs, gold stayed elevated 
+    even as interest rates rose.
+
+  - When geopolitical uncertainty rises: Wars, banking crises, political instability — 
+    all push investors toward gold as a "safe haven" asset. The Russia-Ukraine war in 
+    2022 and the Middle East conflict in 2023 both triggered gold price spikes.
+
+  - When real interest rates are negative: Real interest rate = Nominal rate - Inflation. 
+    When inflation exceeds the interest you earn on bonds, gold (which earns nothing but 
+    holds value) becomes relatively attractive. This is the key mechanism.
+
+  - When central banks buy gold: Central banks of Russia, China, India, Turkey, and 
+    several other countries have been aggressively buying gold since 2022, partly to 
+    diversify away from USD. This institutional demand provides a price floor.
+
+WHAT MOVES GOLD DOWN:
+  - Rising real interest rates: When bond yields rise faster than inflation, investors 
+    prefer earning returns on bonds over holding "inert" gold. The aggressive US Federal 
+    Reserve rate hikes in 2022-2023 temporarily capped gold's rise despite high inflation.
+
+  - Strong US dollar: A strong dollar makes gold expensive for non-dollar buyers, 
+    reducing global demand.
+
+  - Reduced fear/uncertainty: When geopolitical risks ease, safe-haven demand fades.
+
+CURRENT STATUS (2024-2025): Gold has been in a structural bull market, reaching 
+all-time highs above $2,400 to $2,700 per troy ounce. Drivers include central bank 
+buying, geopolitical instability, US debt concerns, and expectations of eventual 
+US Federal Reserve rate cuts. In Indian rupee terms, gold prices have been above 
+₹70,000 to ₹85,000 per 10 grams — historically expensive.
+
+GOLD'S CORRELATION WITH OTHER ASSETS:
+  Gold vs USD: Typically NEGATIVE. Dollar up = Gold down (and vice versa)
+  Gold vs Equities: WEAKLY NEGATIVE to NEUTRAL. In severe crashes, gold rises as stocks fall.
+  Gold vs Oil: WEAKLY POSITIVE. Both respond to inflation, but oil is more economic-cycle driven.
+  Gold vs Bonds: NEGATIVE when rates rise, POSITIVE when fear dominates markets.
+
+================================================================
+SECTOR 2: CRUDE OIL (Brent / WTI)
+================================================================
+
+WHAT MOVES OIL UP:
+  - Supply cuts by OPEC+: The Organization of Petroleum Exporting Countries, now expanded 
+    to include Russia (OPEC+), controls approximately 40% of global supply. When OPEC+ 
+    announces production cuts, supply tightens and prices rise. Saudi Arabia and Russia 
+    have repeatedly coordinated cuts in 2023-2024, supporting prices above $80/barrel.
+
+  - Geopolitical disruptions: Any conflict in major oil-producing regions (Middle East, 
+    Russia, North Africa) creates supply uncertainty, triggering price spikes. The 
+    Russia-Ukraine war in 2022 sent Brent crude to over $120/barrel briefly.
+
+  - Rising global demand: When the global economy grows strongly (especially China and 
+    India, the two largest import markets), oil demand rises. Post-COVID reopening in 
+    2021-2022 caused a significant demand surge.
+
+  - Weak dollar: Since oil is priced in USD globally, a weaker dollar makes oil cheaper 
+    for non-dollar buyers, increasing demand and therefore price.
+
+  - Low inventory levels: When global crude oil inventories fall below historical averages, 
+    any supply disruption creates outsized price moves.
+
+WHAT MOVES OIL DOWN:
+  - Recession or economic slowdown: Less economic activity = less energy demand. In 2020, 
+    oil briefly went negative (an unprecedented event) due to COVID lockdowns eliminating 
+    demand while supply continued.
+
+  - OPEC overproduction or quota violations: When OPEC members cheat on quotas or a 
+    price war breaks out (as happened between Saudi Arabia and Russia in 2020), massive 
+    oversupply crashes prices.
+
+  - Strong USD: Makes oil more expensive for international buyers, reducing demand.
+
+  - Rise of renewables: Longer-term structural factor. As electric vehicles, solar, and 
+    wind energy grow, the long-term demand outlook for oil weakens. This is not a 2025 
+    story but is relevant over 10-20 years.
+
+  - Strategic petroleum reserve releases: The US and allied countries releasing emergency 
+    reserves can temporarily suppress prices (as the US did in 2022).
+
+CURRENT STATUS (2024-2025): Brent crude has been trading in a range of $75-$90/barrel. 
+OPEC+ cuts have supported the floor but global demand growth has been moderate due to 
+China's slower-than-expected post-COVID recovery and high interest rates dampening 
+global economic activity.
+
+OIL'S EFFECT ON INDIA SPECIFICALLY:
+India imports 85% of its crude oil requirements. Every $10/barrel increase in oil 
+prices costs India approximately $14-15 billion in additional import costs annually. 
+This widens the current account deficit, weakens the rupee, raises petrol and diesel 
+prices, increases transport costs, and feeds into general inflation. The entire Indian 
+economy is highly sensitive to global crude prices.
+
+OIL'S CORRELATIONS WITH OTHER ASSETS:
+  Oil vs USD: NEGATIVE. Dollar strengthens → Oil more expensive for others → Demand falls → Oil price falls.
+  Oil vs Inflation: STRONGLY POSITIVE. Oil price rises directly feed into CPI data.
+  Oil vs Equities: MIXED. In normal times, positive (growth drives both). In supply-shock scenarios, 
+    negative (oil rises due to supply crisis, stocks fall due to growth fears).
+  Oil vs Gold: WEAKLY POSITIVE. Both benefit from inflation and dollar weakness.
+
+================================================================
+SECTOR 3: US DOLLAR INDEX (DXY)
+================================================================
+The DXY measures the USD against a basket of 6 major currencies 
+(Euro 57.6%, JPY 13.6%, GBP 11.9%, CAD 9.1%, SEK 4.2%, CHF 3.6%).
+
+WHAT MAKES THE DOLLAR STRONGER:
+  - US interest rates rising faster than other countries: When the Federal Reserve raises 
+    rates while Europe or Japan hold steady, global capital flows into US assets to earn 
+    higher returns. This increased demand for dollars pushes the DXY up.
+
+  - Global risk-off events: In moments of global panic (financial crises, wars, pandemics), 
+    investors flee to the most liquid, most trusted currency. The dollar is that currency. 
+    This "flight to safety" strengthens the USD even when the crisis originates in the US.
+
+  - Strong US economic data: Higher US GDP growth, low unemployment, strong consumer 
+    spending — all make the US more attractive for foreign investment, raising dollar demand.
+
+WHAT WEAKENS THE DOLLAR:
+  - Federal Reserve cutting rates or signalling dovish policy
+  - US fiscal problems (rising debt, deficit spending, credit rating downgrades)
+  - De-dollarization moves by major economies (China, Russia, BRICS countries moving 
+    to bilateral trade in non-USD currencies — a slow but real trend)
+  - Other central banks raising rates faster than the Fed
+
+DOLLAR'S EFFECT ON EMERGING MARKETS (INCLUDING INDIA):
+When the dollar is strong, emerging market currencies like the rupee, Turkish lira, 
+and Brazilian real typically weaken. This is because:
+  1. Investors pull money out of emerging markets to invest in higher-yielding US assets.
+  2. Dollar-denominated debt held by emerging market governments and companies becomes 
+     more expensive to repay in local currency terms.
+  3. Commodity import costs rise (oil, metals — all priced in USD).
+
+A strong dollar period is generally painful for India, raising import costs and putting 
+downward pressure on the rupee.
+
+================================================================
+SECTOR 4: EQUITY MARKETS (STOCK MARKETS)
+================================================================
+
+WHAT DRIVES MARKETS UP BROADLY:
+  - Strong corporate earnings growth
+  - Low interest rates (makes future earnings more valuable in discounted cash flow models)
+  - Economic expansion and rising employment
+  - Technological innovation creating new sectors
+  - Central bank quantitative easing (money printing that flows into asset markets)
+  - Investor optimism and momentum
+
+WHAT DRIVES MARKETS DOWN:
+  - Recession fears
+  - Rising interest rates (discounts future earnings at higher rates, reducing valuations)
+  - Geopolitical crises
+  - Credit market stress (banks failing, bond defaults)
+  - Corporate earnings disappointments
+  - Inflation eroding consumer spending power
+
+KEY CORRELATION — STOCKS VS BONDS (THE TRADITIONAL RELATIONSHIP):
+For decades, stocks and bonds had a negative correlation — when stocks fell (in 
+recessions), bonds rose as central banks cut rates. This made a portfolio of both 
+stocks and bonds "balanced." However, in 2022, both stocks AND bonds fell simultaneously 
+because the threat was high inflation, which hurts both (stocks via rising rates, bonds 
+directly because their fixed coupons lose value). This was an unusual and painful period 
+for traditional "balanced" investors.
+
+================================================================
+SECTOR 5: BOND MARKETS (GOVERNMENT AND CORPORATE BONDS)
+================================================================
+Bonds have an inverse relationship with interest rates. When rates rise, existing 
+bond prices fall (because new bonds offer higher yields, making old bonds less 
+attractive). When rates fall, existing bond prices rise.
+
+The US 10-year Treasury yield is the most important interest rate benchmark in the 
+world. It affects mortgage rates, corporate borrowing costs, and asset valuations 
+globally. When the US 10-year yield rises, it:
+  - Raises borrowing costs globally
+  - Attracts capital from emerging markets into US bonds
+  - Puts pressure on growth stocks and real estate values
+  - Strengthens the USD
+
+In 2022-2023, the US 10-year yield rose from near 0% to over 5% — the fastest rate 
+rise in 40 years. This caused bond market losses, stock market corrections, real estate 
+slowdowns, and emerging market currency pressures simultaneously.
+
+================================================================
+SECTOR 6: AGRICULTURAL COMMODITIES (WHEAT, RICE, EDIBLE OILS)
+================================================================
+
+For India and most developing nations, agricultural commodity prices directly affect 
+the cost of living for the largest number of people. The key drivers are:
+
+  - Monsoon and rainfall patterns (for India, Southeast Asia)
+  - El Niño / La Niña weather cycles (affect global agricultural output every few years)
+  - Russia-Ukraine conflict: Ukraine produces 10% of global wheat and 50% of global 
+    sunflower oil. Russia is the world's largest wheat exporter. Their war disrupted 
+    both supply and created a global food price crisis in 2022.
+  - Palm oil supply: Indonesia and Malaysia produce 85% of global palm oil. 
+    Export restrictions or production disruptions there affect cooking oil prices worldwide.
+  - Fertilizer prices: Fertilizers are made from natural gas and phosphate rock. 
+    Russia and Belarus are major exporters of both. The war disrupted fertilizer supply, 
+    raising crop production costs globally.
+
+Agricultural commodities have a POSITIVE correlation with inflation, a WEAK correlation 
+with gold (both are "real assets"), and a NEGATIVE correlation with drought-hit currencies.
+
+================================================================
+SECTOR 7: REAL ESTATE
+================================================================
+Real estate prices are driven by:
+  - Local demand-supply (most important factor — real estate is fundamentally local)
+  - Interest rates (higher rates = higher EMIs = reduced affordability = less demand)
+  - Economic growth and employment levels
+  - Infrastructure development (metro, highways near a property)
+  - Population growth and urbanisation
+
+Correlation with other assets: Real estate has LOW correlation with equities in the 
+short term, making it a useful diversifier. However, in severe economic downturns 
+(2008, for example), real estate and equities can fall together as credit dries up.
+
+In India (2023-2025), residential real estate prices have been rising in tier-1 and 
+tier-2 cities despite high home loan rates, driven by pent-up demand post-COVID, 
+rising incomes in the salaried class, and limited supply in premium segments.
+
+================================================================
+MASTER CORRELATION SUMMARY TABLE
+================================================================
+
+Asset A      | Asset B          | Typical Correlation  | Why
+-------------|------------------|----------------------|--------------------------------
+Gold         | USD (DXY)        | Negative (-0.6)      | Dollar down = Gold more attractive
+Gold         | US 10-yr Yield   | Negative (-0.5)      | Rising rates hurt non-yielding gold
+Gold         | Inflation        | Positive (+0.6)      | Gold = inflation hedge
+Crude Oil    | USD              | Negative (-0.5)      | Dollar up = Oil costlier for others
+Crude Oil    | Inflation        | Strongly Positive    | Oil directly feeds CPI
+Crude Oil    | Equities         | Variable             | Depends on source of oil move
+Equities     | Bond Yields      | Negative (normally)  | Rising rates hurt stock valuations
+Equities     | Gold             | Weakly Negative      | Gold rises in crashes/fear
+USD          | Emerging Mkt Cur | Strongly Negative    | Dollar rise → EM currency falls
+Agri Commod  | Weather Events   | Variable             | Crop failures spike prices
+Real Estate  | Interest Rates   | Negative             | Higher rates = lower affordability
+
+================================================================
+END OF FILE 03
+================================================================

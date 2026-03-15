@@ -1,0 +1,213 @@
+================================================================
+FILE 05: INVESTMENT STEPS DURING GLOBAL CRISIS — WHEN SYSTEMS FAIL
+================================================================
+Context: Government instability, oil price crisis, currency collapse,
+         banking stress, hyperinflation scenarios
+Audience: Ordinary people — not institutional investors
+================================================================
+
+WHAT COUNTS AS A GLOBAL CRISIS (DEFINING THE SCENARIO)
+================================================================
+A global crisis for this file means conditions where:
+  - Oil prices are extremely high or extremely volatile (>$100/barrel sustained)
+  - Government fiscal systems are under severe stress (debt crisis, credit downgrade)
+  - Inflation is running above 10% annually and possibly accelerating
+  - Banking systems show signs of stress (bank runs, credit freezes)
+  - Currency is weakening rapidly and unpredictably
+  - Job markets are contracting significantly
+  - Supply chains are disrupted (goods unavailable or extremely expensive)
+
+Examples of such periods in recent history:
+  - 2008 Global Financial Crisis (banking system failure, credit freeze)
+  - 2020 COVID-19 shock (supply chain collapse, employment shock)
+  - 2022 post-Ukraine war period (oil shock, food shock, inflation crisis globally)
+  - 1997 Asian Financial Crisis (currency collapses across Southeast Asia)
+  - Sri Lanka 2022 (government debt default, fuel shortage, economic collapse)
+
+India has been partially shielded from the worst of these events historically due to:
+  1. Large domestic consumption base (not heavily export-dependent)
+  2. RBI's foreign exchange reserve management
+  3. Capital account controls (foreign money cannot leave India overnight easily)
+
+But India is NOT fully immune. A severe global oil crisis, a rupee freefall, or a 
+domestic banking crisis would create real hardship for ordinary citizens.
+
+================================================================
+STEP 1: SECURE CASH LIQUIDITY FIRST — THE MOST IMPORTANT STEP
+================================================================
+In any crisis, the first thing that can fail is access to money. Bank ATMs run out 
+of cash. Digital payments fail if server infrastructure is disrupted. Credit lines get 
+frozen. In a severe crisis, the most valuable thing is immediate access to physical 
+cash and basic goods.
+
+Practical steps for cash security:
+  - Maintain at least 1 month of living expenses in CASH at home (in a safe, hidden 
+    location). This is not investment advice — this is survival preparedness. In the 
+    Sri Lanka crisis of 2022, ATM queues stretched for hours and banks had withdrawal 
+    limits. Physical cash on hand was critical.
+  
+  - Maintain 2-3 months of expenses in a savings or liquid fund that can be accessed 
+    instantly online. Keep this in a separate bank from where your salary is deposited — 
+    diversifying across two banks protects against a single bank having issues.
+
+  - Do not keep excessive cash beyond 3 months of expenses at home — inflation erodes 
+    its value rapidly during a crisis, and it's a security risk.
+
+================================================================
+STEP 2: REDUCE DISCRETIONARY DEBT IMMEDIATELY
+================================================================
+In a crisis, interest rates often spike. If you have variable rate debt (floating home 
+loans, personal loans, credit card rollover balances), your EMI can increase 20-40% 
+in a rate-spike scenario. The discipline of reducing debt before a crisis hits is 
+what separates people who survive crises intact from those who don't.
+
+Crisis debt priority hierarchy:
+  1. Credit cards — pay to zero immediately and stop using for non-essentials
+  2. Personal loans — accelerate repayment if you have surplus cash
+  3. Vehicle loans — make at least one extra EMI payment per year to reduce principal
+  4. Home loans — in a crisis, home loan restructuring options are often available 
+     from banks. Know what your bank's forbearance policy is before you need it.
+
+One key insight: In a crisis, DO NOT take out new loans to invest. The temptation to 
+borrow and buy cheap assets (stocks, gold, property) is real during a crash, but it 
+is dangerous. If the recovery takes longer than expected, you cannot service the debt 
+and you are forced to sell assets at a loss.
+
+================================================================
+STEP 3: PROTECT FOOD AND ESSENTIAL GOODS — REAL ASSET DIVERSIFICATION
+================================================================
+This step sounds unusual in a financial planning document, but it is economically 
+rational. During supply chain disruptions and hyperinflation, the value of food 
+and essential goods appreciates dramatically in real terms.
+
+Practical steps:
+  - Maintain a 30-60 day stock of essential dry goods (rice, pulses, oil, salt, sugar, 
+    flour) at home. This is not hoarding — it is prudent supply chain buffering.
+    
+  - A family of 4 spending ₹8,000/month on food staples could maintain a 2-month 
+    stockpile worth ₹16,000. If food prices rise 25% during a crisis (as they did 
+    in many countries in 2022), this stockpile effectively "earned" 25% in 2 months 
+    on a real basis — far better than any investment.
+
+  - This also provides psychological stability. When grocery shelves are empty or 
+    prices are spiking, families with sufficient food reserves can make financial 
+    decisions calmly rather than in panic.
+
+================================================================
+STEP 4: GOLD AS A CRISIS HEDGE — HOW MUCH AND WHAT FORM
+================================================================
+Gold has maintained purchasing power through every major economic crisis in modern 
+history. During the 2008 crisis, gold rose 25%. During COVID-2020, gold hit all-time 
+highs. When currencies collapse (as in Turkey, Argentina, Sri Lanka), people who held 
+gold in those countries preserved wealth while those holding local currency savings 
+lost 50-80% of purchasing power in dollar terms.
+
+How much gold should a crisis-prepared person hold?
+  - General guidance: 5% to 15% of total investable assets in gold
+  - During a crisis, this allocation can rise to 20-25% as a defensive measure
+  - Do not exceed 30-35% in gold — it does not produce income, and the opportunity 
+    cost is high over long periods
+
+What FORM of gold to hold during a crisis:
+  Physical gold (coins and bars) — most direct. No counterparty risk. 
+    In an extreme scenario where digital systems fail, physical gold is the only 
+    form of gold that works. Recommend: Hallmark certified coins from a bank (SBI, 
+    HDFC sell coins) or reputable jeweler. 22-24 karat coins in small denominations 
+    (2g, 5g, 10g) are more liquid than one large 50g bar.
+
+  Sovereign Gold Bonds (SGBs) — best if systems are functioning. 
+    No risk of theft, earns 2.5% interest, zero long-term capital gains tax at 
+    maturity. But they are digital — in a complete infrastructure failure, they are 
+    inaccessible. For mild-to-moderate crises, SGBs are preferable. For extreme 
+    scenarios, a mix of physical gold and SGBs is prudent.
+
+  Gold ETFs — only if you have a demat account and markets are functional.
+
+During a crisis, avoid gold jewelry purely as investment — making charges (10-25% 
+of value) and purity uncertainty make it an inefficient gold holding.
+
+================================================================
+STEP 5: DIVERSIFY ACROSS CURRENCIES — PRACTICAL OPTIONS FOR INDIANS
+================================================================
+In an India-specific currency crisis (rupee falling sharply), having some exposure 
+to foreign currencies protects wealth. This is not tax evasion — it is legitimate 
+currency diversification within legal frameworks.
+
+Legal ways for Indians to hold foreign currency exposure:
+  - Foreign Currency Non-Resident (FCNR) Deposits: Fixed deposits in USD, GBP, or 
+    EUR in Indian banks. Interest and principal are repaid in foreign currency. 
+    Currently offering 4.5% to 6% on USD deposits (as of 2024). If the rupee weakens 
+    further, you gain on both the interest and the exchange rate difference.
+
+  - Liberalised Remittance Scheme (LRS): Indians can legally remit up to $250,000 
+    per year abroad. This money can be used to invest in US index funds, international 
+    stocks, or kept in a foreign bank. Requires Tax Collected at Source (TCS) of 20% 
+    upfront (refundable when filing taxes). For significant portfolios (₹25 lakh+), 
+    having 10-15% in international assets via LRS is a genuine currency hedge.
+
+  - International Mutual Funds: Some Indian mutual funds invest in US or global equities. 
+    However, SEBI currently has restrictions on new international fund flows (as of 
+    early 2024) due to fund-of-fund rules. Check current availability when investing.
+
+================================================================
+STEP 6: DO NOT PANIC-SELL — THE MOST VIOLATED RULE IN EVERY CRISIS
+================================================================
+History documents this with remarkable consistency. In every financial crisis:
+  - Markets fall dramatically (30-60% in severe cases)
+  - People panic and sell near the bottom
+  - Markets recover (in weeks for mild crises, months to years for severe ones)
+  - The same people who sold at the bottom watch prices go past their original levels
+
+The Nifty 50 index fell from 12,000 to 7,500 in the COVID crash of March 2020 
+(a 37.5% drop). By December 2020, it had fully recovered. By 2024, it was above 
+22,000. Someone who panic-sold in March 2020 locked in a 37% loss and then had to 
+buy back at much higher prices to participate in the recovery.
+
+What to do instead of panic-selling during a crisis:
+  - Re-read your investment thesis. Have the fundamental reasons for your investment 
+    changed, or only the price? Price falls are not evidence that an investment is bad.
+  - If you have cash available, a crisis is the correct time to BUY more index funds 
+    or quality assets — you are getting them at a discount.
+  - If you genuinely cannot sleep because of market falls, your equity allocation is 
+    too high for your psychological tolerance. Reduce equity permanently after the 
+    crisis, not during it.
+
+================================================================
+STEP 7: REVIEW INCOME STABILITY — THE HUMAN CAPITAL HEDGE
+================================================================
+Your greatest financial asset during a crisis is usually not gold or stocks — it is 
+your ability to earn income. Protecting and potentially enhancing your income during 
+a crisis is the highest-return "investment" available to a working person.
+
+Steps to protect income in a crisis:
+  - Become indispensable in your current role: Volunteer for additional responsibilities, 
+    develop skills that are hard to replace. Layoffs during downturns target the most 
+    replaceable roles first.
+  
+  - Build multiple income streams before the crisis hits: Freelancing, tutoring, a 
+    part-time skill-based business, rental income — any secondary income source that 
+    can cushion a job loss. This is best built in good times; it is too late to start 
+    when the crisis arrives.
+
+  - Upskill into crisis-resistant domains: Healthcare, food production, government 
+    services, essential IT infrastructure — these fields maintain employment even in 
+    severe downturns. Luxury goods, construction, and real estate-related roles are 
+    most vulnerable.
+
+================================================================
+QUICK REFERENCE: CRISIS ACTION CHECKLIST
+================================================================
+  ☐ 1 month expenses in physical cash at home
+  ☐ 3 months expenses in liquid fund / savings account
+  ☐ Zero credit card balance
+  ☐ Extra EMI payment made on highest-interest loan
+  ☐ 30-60 day food staple stockpile maintained
+  ☐ Term insurance and health insurance paid and active
+  ☐ 10-15% of assets in gold (physical + SGB mix)
+  ☐ Reviewed employment situation — am I in a recession-resistant role?
+  ☐ NOT panic-selling any investments
+  ☐ Continuing SIPs (if employed) — crises are when SIPs accumulate most cheaply
+
+================================================================
+END OF FILE 05
+================================================================

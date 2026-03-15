@@ -1,0 +1,154 @@
+================================================================
+FILE 07: DAILY LIFE ECONOMIC QUESTIONS — ANSWERED PLAINLY
+================================================================
+Real questions from real people — answered without jargon
+================================================================
+
+Q: SHOULD I BUY A HOME OR KEEP RENTING? (THE MOST ASKED QUESTION)
+-------------------------------------------------------------------
+This depends on three variables that are specific to your situation: your city, 
+your income stability, and your time horizon. There is no universal right answer.
+
+The "Buy" case is strong when:
+- The ratio of annual rent to property purchase price is above 4% (so ₹12,000/month 
+  rent on a property worth ₹30 lakh = 4.8% yield — buying makes mathematical sense)
+- You plan to stay in the city for at least 7-10 years
+- You can afford a 20% down payment without depleting your emergency fund
+- Your total EMI is not more than 30-35% of your take-home pay
+
+The "Rent" case is better when:
+- You are in a high-rent city where property prices are 50-80x annual rent (paying 
+  ₹30,000/month rent for a flat worth ₹3 crore = only 1.2% yield — owning is 
+  significantly more expensive than renting)
+- Your job requires mobility
+- You are early in your career and your income may change significantly in 3-5 years
+- Local property market has already seen large recent appreciation
+
+Simple check: If the property you want to buy costs ₹60 lakh and market rent for 
+a similar property is ₹18,000/month, rent is ₹2.16 lakh/year. Your EMI on a 
+₹48 lakh loan (80% financing, 20% down) at 9% for 20 years would be approximately 
+₹43,200/month or ₹5.18 lakh/year. You are paying ₹3 lakh more per year to own 
+rather than rent — that extra ₹3 lakh invested in PPF or equity funds for 10 years 
+at 10% return becomes approximately ₹52 lakh. However, you miss any property price 
+appreciation. This calculation needs to be done fresh for your specific situation.
+
+-------------------------------------------------------------------
+
+Q: IS GOLD JEWELLERY A GOOD INVESTMENT?
+-------------------------------------------------------------------
+Gold jewellery is a sentimental asset and a cultural necessity — but as a pure 
+financial investment, it is inefficient. The reasons are specific and real.
+
+Making charges at jewellers range from 8% to 25% of gold value. These are paid 
+upfront and are not recovered at resale (most jewellers buy back at melt value — 
+pure metal price, no making charge credit). A hallmarked ring bought for ₹50,000 
+with 20% making charges contains only ₹41,667 worth of gold. To break even, gold 
+must rise 20% before you have even started earning a return.
+
+Additionally, purity is often uncertain in older jewellery. 22 karat vs 18 karat 
+makes a significant difference in gold content.
+
+If you are buying jewellery for personal use, wearing occasions, or as a gift — that 
+is entirely valid. But account for it as a consumption cost, not an investment. For 
+investment purposes, sovereign gold bonds (zero making charges, tax-free at maturity, 
+earns 2.5% interest) are strictly superior.
+
+-------------------------------------------------------------------
+
+Q: WHAT IS REPO RATE AND HOW DOES IT AFFECT MY HOME LOAN EMI?
+-------------------------------------------------------------------
+The repo rate is the interest rate at which the RBI lends money to commercial banks. 
+When the RBI raises this rate, banks' borrowing cost increases, so they raise rates 
+on home loans, personal loans, and car loans. When RBI cuts repo rate, your floating 
+rate loan EMI goes down.
+
+Example: You have a ₹40 lakh floating rate home loan at 9%. RBI cuts repo rate by 
+0.50% (50 basis points). Your bank passes this on (usually with a lag of 1-3 months). 
+Your rate drops to 8.5%. On a 20-year outstanding loan, this reduces your EMI from 
+approximately ₹35,988 to ₹34,812 — saving ₹1,176/month or ₹14,112/year.
+
+Over the remaining loan period, a 0.5% cut on ₹40 lakh for 20 years saves you 
+approximately ₹2.8 lakh in total interest. Rate cycles matter significantly.
+
+-------------------------------------------------------------------
+
+Q: WHAT IS THE DIFFERENCE BETWEEN SAVINGS AND INVESTMENT?
+-------------------------------------------------------------------
+Savings: Money set aside for short-term security and accessibility. Goes into savings 
+accounts, liquid funds, FDs with short maturity. Purpose is to PROTECT the money and 
+ensure it is available when needed. Returns are low (3-7%) but the money is safe.
+
+Investment: Money committed for a longer term with an expectation of growth that beats 
+inflation. Goes into equities, bonds, real estate, gold. Purpose is to GROW the money 
+beyond inflation. Returns can be higher (8-15%+) but carry some risk of loss.
+
+The key distinction: You should never "invest" your emergency fund, and you should 
+never "save" your long-term wealth in low-return instruments. Most people get this 
+exactly backwards — they keep too much in savings accounts (thinking it's safe) while 
+their long-term wealth grows below inflation.
+
+-------------------------------------------------------------------
+
+Q: WHAT IS A CREDIT SCORE AND WHY DOES IT MATTER?
+-------------------------------------------------------------------
+A credit score (CIBIL score in India) is a number between 300 and 900 that represents 
+your creditworthiness — how reliably you have repaid loans and credit card bills in 
+the past. A score above 750 is generally considered good. Above 800 is excellent.
+
+Why it matters practically:
+- A good score (750+) means you get home loans at the best available interest rates.
+- A poor score (below 650) can result in loan rejection or rates 2-3% higher than 
+  the best rate — which on a ₹40 lakh home loan over 20 years means paying lakhs 
+  more in interest.
+- A score below 600 can even affect job applications at financial companies or for 
+  roles requiring financial trustworthiness.
+
+What damages your credit score: Missing any EMI or credit card payment (even once), 
+using more than 30-40% of your total credit card limit consistently, having too many 
+loan applications in a short period.
+
+What builds your credit score: Paying every EMI on time without exception, keeping 
+credit card utilisation below 30%, maintaining old credit accounts even if unused.
+
+-------------------------------------------------------------------
+
+Q: WHAT IS THE DIFFERENCE BETWEEN INCOME TAX SLABS — OLD VS NEW REGIME?
+-------------------------------------------------------------------
+India currently has two parallel income tax regimes for salaried individuals.
+
+Old Regime: Higher tax rates but many deductions available. You can reduce your 
+taxable income by claiming: Section 80C (PPF, ELSS, life insurance — up to ₹1.5 lakh), 
+HRA (house rent allowance), home loan interest (Section 24 — up to ₹2 lakh), NPS 
+(Section 80CCD — additional ₹50,000), health insurance (Section 80D — up to ₹25,000), 
+and others. Total deductions can reduce taxable income by ₹4-5 lakh for a disciplined 
+investor.
+
+New Regime: Lower slab rates but minimal deductions allowed. Starting FY 2024-25, 
+income up to ₹7 lakh has zero tax under the new regime (after standard deduction and 
+rebate). The slabs are more gradual and simpler.
+
+Which to choose: If you actively invest in PPF, have a home loan, pay rent and claim 
+HRA, and contribute to NPS — the old regime likely saves more tax. If you do not have 
+these deductions (young earner, renting without HRA, no active tax-saving investments), 
+the new regime is simpler and often saves more tax. Calculate both scenarios before 
+filing each year.
+
+-------------------------------------------------------------------
+
+Q: WHAT IS INFLATION'S REAL IMPACT ON MY ₹10,000 SAVINGS?
+-------------------------------------------------------------------
+At 6% annual inflation, ₹10,000 today buys the same goods as ₹10,000. In 10 years, 
+you will need ₹17,908 to buy the same goods. That means if your ₹10,000 earns only 
+3-4% in a savings account, after 10 years your ₹13,000-14,000 balance buys LESS 
+than your original ₹10,000 could today. You are poorer in real terms despite having 
+nominally more money.
+
+This is why simply saving is not enough. You must invest at rates that beat inflation 
+after tax. The minimum bar is: post-tax return must exceed inflation rate. For someone 
+in the 20% tax bracket earning 7% on an FD, after-tax return is 5.6% — barely above 
+6% inflation. For a 30% bracket taxpayer, after-tax return is 4.9% — clearly below 
+inflation. This is the mathematical case for equity and PPF investing.
+
+================================================================
+END OF FILE 07
+================================================================

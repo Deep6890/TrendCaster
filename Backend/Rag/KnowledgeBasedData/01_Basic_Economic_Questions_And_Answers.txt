@@ -1,0 +1,148 @@
+================================================================
+FILE 01: BASIC ECONOMIC QUESTIONS EVERY NORMAL PERSON ASKS
+================================================================
+Last Updated Reference: 2024-2025 Global Economic Context
+Target Audience: General Public — No Finance Background Required
+================================================================
+
+QUESTION 1: WHY ARE PRICES GOING UP EVEN THOUGH I EARN THE SAME?
+-----------------------------------------------------------------
+This is called inflation. Inflation means the purchasing power of your money decreases 
+over time. If bread cost ₹30 last year and now costs ₹38, that 26% rise is inflation 
+affecting your daily life. The core reason is that when more money circulates in an 
+economy (due to government spending, loans, or printing money) but the supply of goods 
+stays the same, each unit of money becomes worth less. Think of it like this: if there 
+are 10 apples and 100 rupees chasing them, each apple costs ₹10. If suddenly 200 
+rupees are in circulation but still only 10 apples exist, each apple now costs ₹20. 
+Your salary did not go up, but the goods did — that gap is what hurts you.
+
+In India's context (2024-2025), food inflation has been driven by erratic monsoons 
+affecting vegetable supply, higher fuel costs pushing transport prices up, and global 
+commodity price rises feeding into local retail prices.
+
+WHAT YOU CAN DO: Track your monthly spending on 5 core categories — food, transport, 
+utilities, rent, and healthcare. If any one of them rises more than 8% year-over-year, 
+you need to either cut spending in another category or look for an income supplement.
+
+----------------------------------------------------------------
+
+QUESTION 2: WHY DOES THE GOVERNMENT RAISE INTEREST RATES WHEN PRICES GO UP?
+-----------------------------------------------------------------
+The Reserve Bank of India (RBI) or any central bank raises interest rates to make 
+borrowing expensive. When borrowing is expensive, people and businesses take fewer 
+loans. Fewer loans mean less money flowing in the economy. Less money chasing the same 
+goods means prices stabilize. It is a deliberate "cooling" of the economy.
+
+The side effect is that your home loan EMI goes up. A 1% rate hike on a ₹40 lakh home 
+loan over 20 years increases your EMI by roughly ₹2,200 to ₹2,800 per month. This is 
+real money out of a household budget.
+
+WHAT YOU CAN DO: If you have a floating-rate loan, during a rate-hike cycle consider 
+switching to a fixed rate to protect yourself. If rates are at a peak (which they were 
+in 2023-2024), wait — they will eventually come down, and your floating EMI will 
+reduce on its own.
+
+----------------------------------------------------------------
+
+QUESTION 3: WHAT IS GDP AND WHY DO PEOPLE KEEP TALKING ABOUT IT?
+-----------------------------------------------------------------
+GDP (Gross Domestic Product) is the total value of all goods and services produced in 
+a country in one year. Think of it as the country's annual report card. If India's GDP 
+grows at 7%, it means the economy produced 7% more value this year than last year. 
+This generally means more jobs, more business activity, and in theory, more prosperity 
+for people.
+
+But GDP growth does not automatically mean you personally are better off. If the 
+growth is concentrated in a few sectors (like software or manufacturing) or in a few 
+cities, you may not feel it in your pocket. GDP is an average — and averages hide 
+extremes.
+
+India's GDP (2024-2025): India is growing at approximately 6.5% to 7%, making it one 
+of the fastest-growing major economies. However, rural income growth, small business 
+recovery, and wage growth for lower-income groups are growing slower than the headline 
+number suggests.
+
+----------------------------------------------------------------
+
+QUESTION 4: WHAT IS THE DIFFERENCE BETWEEN RECESSION AND DEPRESSION?
+-----------------------------------------------------------------
+A recession is when the economy shrinks (negative GDP growth) for two or more 
+consecutive quarters — roughly 6 months. People lose jobs, businesses cut spending, 
+and consumer confidence falls. The 2008 global financial crisis triggered recessions 
+in most developed economies.
+
+A depression is a severe, prolonged recession lasting years with unemployment exceeding 
+20% and GDP dropping more than 10%. The last true global depression was in the 1930s.
+
+A slowdown (what India sometimes experiences) is growth that is lower than expected 
+but still positive. For example, growth dropping from 8% to 5% is a slowdown, not a 
+recession. Still painful, still leads to job cuts and reduced hiring — but the economy 
+is not shrinking.
+
+WHAT THIS MEANS FOR YOU: During a slowdown or recession, the safest personal strategy 
+is to reduce debt, build an emergency fund, and avoid major financial commitments like 
+buying property at peak prices.
+
+----------------------------------------------------------------
+
+QUESTION 5: WHY DOES THE DOLLAR RATE AFFECT MY DAILY LIFE IN INDIA?
+-----------------------------------------------------------------
+India imports massive quantities of crude oil, electronics, edible oils, and 
+fertilizers — all priced in US dollars. When the rupee weakens against the dollar 
+(say, from ₹82 to ₹86 per dollar), India has to pay more rupees for the same barrel 
+of oil. This extra cost gets passed on to you as higher petrol prices, higher diesel 
+prices, and then higher transport costs — which makes vegetables, grains, and consumer 
+goods cost more. A weak rupee is like a hidden tax on every imported product you use.
+
+Conversely, a stronger rupee makes imports cheaper and can ease inflation.
+
+Current Context (2024-2025): The rupee has been hovering between ₹83–₹87 to the 
+dollar. This is a historically weak zone and is one of the reasons fuel and imported 
+goods remain expensive even when global crude oil prices moderate.
+
+----------------------------------------------------------------
+
+QUESTION 6: WHAT IS FISCAL DEFICIT AND DOES IT AFFECT ME?
+-----------------------------------------------------------------
+Fiscal deficit is the gap between what the government earns (taxes, fees) and what it 
+spends (salaries, subsidies, infrastructure). If the government collects ₹20 lakh 
+crore in revenue but spends ₹25 lakh crore, the ₹5 lakh crore gap is the fiscal 
+deficit. The government borrows to cover this gap — usually by issuing bonds.
+
+The danger is that heavy government borrowing "crowds out" private borrowing. Banks 
+prefer lending to the government (safe, guaranteed return) over lending to small 
+businesses (riskier). This can slow down small business lending and economic 
+opportunity for ordinary citizens.
+
+India's fiscal deficit target is around 4.5% to 5% of GDP (2024-2025 budget). The 
+government has been trying to narrow it to reduce long-term economic instability.
+
+----------------------------------------------------------------
+
+QUESTION 7: WHY DO SOME COUNTRIES PRINT MONEY AND OTHERS CANNOT?
+-----------------------------------------------------------------
+The United States can print dollars because the dollar is the world's reserve currency 
+— most global trade happens in dollars. So even when the US prints more dollars, 
+global demand absorbs the excess. Countries like India, Argentina, or Sri Lanka cannot 
+do this freely because their currency is not globally demanded. If India prints excess 
+rupees, the rupee simply weakens against the dollar, imports become more expensive, 
+and inflation spikes rapidly. This is why currency management by the RBI is critical 
+for India's economic stability.
+
+----------------------------------------------------------------
+
+QUESTION 8: WHAT IS STAGFLATION AND IS IT HAPPENING NOW?
+-----------------------------------------------------------------
+Stagflation is the worst economic situation: high inflation AND slow growth at the 
+same time. Normally, inflation happens when economies are growing fast (too much 
+demand). But stagflation breaks that pattern. It happened in the 1970s globally due to 
+oil shocks.
+
+The current global environment (2023-2025) has had mild stagflation risk in many 
+developed economies — inflation stayed high while growth slowed. India avoided the 
+worst of this due to its domestic demand base and relatively insulated economy, but 
+was not fully immune given rising import costs.
+
+================================================================
+END OF FILE 01
+================================================================

@@ -1,0 +1,661 @@
+================================================================
+FILE 20: ECONOMIC GLOSSARY — 100 TERMS EXPLAINED IN PLAIN LANGUAGE
+================================================================
+Every term a normal person encounters in news, banking, and investing — 
+explained without jargon, with real-world Indian context where relevant
+================================================================
+
+HOW TO USE THIS GLOSSARY
+Terms are grouped by topic category, not alphabetically, so related concepts 
+appear together and build on each other. This makes it easier to understand 
+clusters of connected ideas rather than isolated definitions.
+
+================================================================
+SECTION A: BASIC MACROECONOMIC TERMS
+================================================================
+
+1. GDP (Gross Domestic Product)
+The total value of all goods and services a country produces in a year. Think of 
+it as the country's annual income report. India's GDP in 2024-25 is approximately 
+₹300 lakh crore (roughly $3.7 trillion). GDP growth of 7% means the economy 
+produced 7% more value than the previous year.
+
+2. GDP Per Capita
+GDP divided by total population. While India's total GDP is large, GDP per capita 
+(approximately $2,500) is still relatively low because the population is 1.4 billion. 
+This reflects the average income per person — though as with all averages, it hides 
+enormous inequality between the richest and poorest citizens.
+
+3. GNP (Gross National Product)
+Similar to GDP but includes income earned by a country's citizens abroad and 
+excludes income earned by foreigners within the country. For India, the difference 
+between GDP and GNP is influenced by remittances sent home by Indian workers abroad 
+(which add to GNP) versus income earned by foreign companies in India (which adds 
+to GDP but not GNP).
+
+4. Inflation
+The rate at which the general price level of goods and services rises over time, 
+reducing purchasing power. If inflation is 6%, what cost ₹100 last year costs 
+₹106 this year. India targets 4% inflation (with a 2-6% tolerance band).
+
+5. Deflation
+The opposite of inflation — prices falling over time. Sounds good but is actually 
+economically dangerous because it causes consumers to delay purchases (why buy 
+today if it will be cheaper tomorrow?), which reduces demand, causes businesses 
+to cut production and workers, which further reduces demand — a deflationary spiral.
+
+6. Stagflation
+The worst economic scenario: high inflation AND slow economic growth simultaneously. 
+Normally inflation occurs during growth, so stagflation is unusual and difficult to 
+treat. Raising rates fights inflation but hurts growth; cutting rates helps growth 
+but worsens inflation. The 1970s global oil shock caused classic stagflation.
+
+7. Recession
+Two or more consecutive quarters (6+ months) of negative GDP growth. The economy 
+is shrinking. Recessions bring rising unemployment, falling business investment, 
+and reduced consumer spending. India has not had a technical recession in decades, 
+though it experienced near-zero growth in early 2020 during COVID.
+
+8. Depression
+A severe and prolonged recession with GDP falling more than 10% and unemployment 
+exceeding 20%. The last true global depression was the 1930s Great Depression.
+
+9. Business Cycle
+The natural rhythm of economic expansion (growth), peak, contraction (slowdown or 
+recession), trough (bottom), and recovery that every economy experiences repeatedly 
+over time. Understanding where the economy is in the cycle helps anticipate policy 
+changes and investment opportunities.
+
+10. Fiscal Deficit
+The gap between government income (tax revenues) and government spending. When 
+the government spends more than it earns, it borrows to cover the difference. 
+India's fiscal deficit target is approximately 4.5-5% of GDP in 2024-25.
+
+11. Current Account Deficit (CAD)
+The difference between what India earns from the world (exports, services, 
+remittances) and what it pays the world (imports, foreign debt interest). A large 
+CAD means India is consuming more than it produces and is financing the difference 
+through foreign borrowing — which creates rupee depreciation pressure.
+
+12. Trade Deficit
+The portion of the current account where imports of goods exceed exports of goods. 
+India has a persistent trade deficit because it imports massive quantities of crude 
+oil, electronics, and gold.
+
+================================================================
+SECTION B: MONETARY POLICY AND BANKING TERMS
+================================================================
+
+13. Central Bank
+The institution that controls a country's money supply, issues currency, and 
+regulates the banking system. India's central bank is the Reserve Bank of India (RBI). 
+The US equivalent is the Federal Reserve (the Fed). The European Union's is the ECB.
+
+14. Repo Rate
+The rate at which the RBI lends money to commercial banks (for overnight borrowing). 
+When the RBI raises this rate, all borrowing becomes more expensive throughout the 
+economy — your home loan, personal loan, and credit card interest rates all 
+eventually adjust upward. Currently approximately 6.25-6.5%.
+
+15. Reverse Repo Rate
+The rate at which the RBI borrows from commercial banks (banks park surplus money 
+with the RBI). This is typically lower than the repo rate. It sets the floor for 
+short-term interest rates in the economy.
+
+16. CRR (Cash Reserve Ratio)
+The percentage of a bank's total deposits that it must keep as cash with the RBI, 
+earning zero interest. Currently 4%. Raising CRR reduces the money available for 
+banks to lend — a tightening tool to reduce money supply and fight inflation.
+
+17. SLR (Statutory Liquidity Ratio)
+The percentage of deposits banks must hold in liquid government securities 
+(bonds, gold). Currently 18%. Combined with CRR (4%), banks are required to 
+hold 22% of deposits in mandated instruments — limiting the remaining 78% 
+available for lending.
+
+18. Quantitative Easing (QE)
+When a central bank creates new money and uses it to purchase government bonds 
+or other financial assets from banks, injecting money directly into the financial 
+system. Used when interest rates are already near zero and the economy needs more 
+stimulus. The US Fed did massive QE after 2008 and again during COVID.
+
+19. Monetary Policy
+The use of interest rates and money supply management by a central bank to achieve 
+economic goals — primarily price stability (controlling inflation) and supporting 
+growth. "Tight" monetary policy = higher rates = fighting inflation. "Loose" or 
+"accommodative" policy = lower rates = supporting growth.
+
+20. Fiscal Policy
+Government decisions about spending and taxation to influence the economy. 
+Raising government spending during a recession stimulates the economy (expansionary 
+fiscal policy). Cutting spending or raising taxes during high inflation cools 
+demand (contractionary fiscal policy). Fiscal policy is controlled by the Finance 
+Ministry; monetary policy by the RBI.
+
+21. Liquidity
+How easily an asset can be converted to cash without significantly affecting its 
+price. Cash is perfectly liquid. A savings account is highly liquid. A fixed deposit 
+has medium liquidity (can be broken with penalty). Real estate is illiquid — 
+selling takes months and you may have to accept a lower price for a quick sale.
+
+22. LIBOR / SOFR
+LIBOR (London Interbank Offered Rate) was the global benchmark interest rate at 
+which banks lent to each other — used as the base for trillions in financial 
+contracts worldwide. It was phased out in 2023 and replaced by SOFR (Secured 
+Overnight Financing Rate). Referenced in international financial contracts but 
+rarely encountered directly by ordinary consumers.
+
+================================================================
+SECTION C: INVESTMENT AND MARKET TERMS
+================================================================
+
+23. Asset Class
+A category of investment with similar characteristics. The main asset classes are: 
+equities (stocks), fixed income (bonds, FDs), real assets (gold, real estate, 
+commodities), and cash equivalents (savings accounts, liquid funds). Diversifying 
+across asset classes reduces portfolio risk.
+
+24. Equity
+Ownership stake in a company. When you buy shares of Infosys, you hold equity in 
+Infosys. "Equity" in your home means the portion of the property's value that 
+exceeds your outstanding loan — your actual ownership stake.
+
+25. Bond
+A debt instrument. When a government or company issues a bond, it is borrowing 
+money from investors and promising to repay the principal at a future date plus 
+regular interest payments (called coupon payments). Bonds are generally safer 
+than stocks but offer lower returns.
+
+26. Yield
+The income return on an investment, expressed as a percentage of its current price. 
+If a bond pays ₹70/year in interest and its current market price is ₹1,000, 
+its yield is 7%. Yield and bond price move in opposite directions — when bond 
+prices rise (because demand is high), yield falls, and vice versa.
+
+27. Dividend
+A share of a company's profits paid to shareholders. Not all companies pay 
+dividends — growth companies often reinvest profits. Dividend yield = annual 
+dividend per share divided by current share price. For example, if a share 
+is priced at ₹200 and pays ₹8/year in dividends, dividend yield is 4%.
+
+28. Market Capitalisation
+The total market value of a company's outstanding shares. Share price × total 
+number of shares = market cap. A company with a share price of ₹500 and 1 crore 
+shares has a market cap of ₹500 crore. Large-cap companies (top 100 by market cap 
+in India) are more stable. Small-cap companies are smaller, more volatile, but 
+potentially higher growth.
+
+29. P/E Ratio (Price-to-Earnings)
+A widely used measure of whether a stock is cheap or expensive relative to its 
+earnings. Share price divided by earnings per share. A P/E of 20 means investors 
+are paying ₹20 for every ₹1 of annual earnings — implying they expect significant 
+future growth. A high P/E means the stock is expensive relative to current earnings. 
+The Nifty 50's long-term average P/E is approximately 20-22x.
+
+30. Bull Market
+A market environment characterised by rising prices, investor optimism, and strong 
+economic conditions. Typically defined as a 20%+ rise from recent lows. India's 
+stock market was in a broad bull market from 2020 to 2024.
+
+31. Bear Market
+A market environment with falling prices, investor pessimism, and economic concerns. 
+Typically defined as a 20%+ fall from recent highs. COVID-March 2020 caused a brief 
+but severe bear market globally.
+
+32. Portfolio
+Your complete collection of investments across all asset classes. A diversified 
+portfolio holds multiple asset types so that poor performance in one area is 
+partially offset by performance in others.
+
+33. Diversification
+Spreading investments across different asset classes, geographies, and sectors to 
+reduce overall risk. "Don't put all your eggs in one basket" is diversification. 
+A portfolio of only Nifty 50 stocks is diversified within Indian equities but 
+concentrated in India specifically. Adding international funds and gold increases 
+true diversification.
+
+34. NAV (Net Asset Value)
+The per-unit price of a mutual fund. Calculated as total assets of the fund minus 
+liabilities, divided by number of outstanding units. If you invest ₹10,000 when 
+NAV is ₹25, you receive 400 units. If NAV later rises to ₹35, your investment 
+is worth ₹14,000.
+
+35. SIP (Systematic Investment Plan)
+An automated, regular investment of a fixed amount into a mutual fund. The most 
+practical and behaviorally effective way for ordinary investors to build long-term 
+wealth, because it removes the need to time the market and enforces consistent saving.
+
+36. XIRR (Extended Internal Rate of Return)
+The correct measure of actual annualised return for irregular investments like SIPs. 
+Because money is invested at different times, the simple return percentage is 
+misleading. XIRR accounts for the timing of each investment to give the true 
+annualised return.
+
+37. Alpha
+The excess return of an investment above what the benchmark index produced. 
+If the Nifty 50 returned 12% and your mutual fund returned 15%, the fund 
+generated 3% alpha. Generating consistent positive alpha is difficult — most 
+actively managed funds fail to produce alpha after fees over long periods.
+
+38. Beta
+A measure of how much a stock or fund moves relative to the market. A beta of 1 
+means the investment moves in line with the market. Beta above 1 means it 
+amplifies market moves (more volatile). Beta below 1 means it is less sensitive 
+to market movements (more stable). Government bonds typically have low beta; 
+small-cap stocks have high beta.
+
+39. Compound Interest
+Interest calculated on both the original principal AND the accumulated interest 
+from previous periods. This creates exponential growth over time — the reason 
+long-term investing works. ₹1 lakh at 12% compounded annually becomes 
+₹3.1 lakh in 10 years, ₹9.6 lakh in 20 years, and ₹29.9 lakh in 30 years — 
+without adding a single rupee after the initial investment.
+
+40. Rupee Cost Averaging
+The effect of investing a fixed amount regularly, which means you buy more units 
+when prices are low and fewer when prices are high. Over time, your average 
+purchase price is lower than the average market price — an automatic benefit 
+of SIP investing.
+
+================================================================
+SECTION D: PERSONAL FINANCE TERMS
+================================================================
+
+41. Gross Income
+Your total income before any deductions — tax, PF, insurance, etc. The CTC 
+(Cost to Company) figure on your offer letter is close to (but not exactly) 
+your gross income.
+
+42. Net Income / Take-Home Pay
+What actually reaches your bank account after all deductions. Always plan budgets 
+and investments based on net income, not gross or CTC.
+
+43. EMI (Equated Monthly Instalment)
+The fixed monthly payment you make on a loan, consisting of both principal 
+repayment and interest. Early in a loan tenure, most of the EMI is interest. 
+As the loan matures, the interest portion decreases and principal repayment 
+increases — this structure is called amortisation.
+
+44. Amortisation
+The gradual repayment of a loan through regular payments over time. An amortisation 
+schedule shows exactly how much of each EMI goes toward interest versus principal — 
+and how your outstanding balance decreases over the loan's life.
+
+45. Prepayment
+Paying back a loan amount above your regular EMI — reducing the outstanding principal 
+faster. Prepayment directly reduces the total interest you pay over the loan's life. 
+Even one additional EMI per year on a home loan can reduce the total loan tenure 
+by 2-3 years and save lakhs in interest.
+
+46. Foreclosure
+Fully paying off a loan before its scheduled tenure ends. Most banks allow 
+foreclosure with a small penalty (0-2%) for floating rate home loans — and RBI 
+rules prohibit prepayment penalties on floating rate home loans entirely. 
+Fixed rate loans may have higher foreclosure penalties.
+
+47. CIBIL Score / Credit Score
+A number between 300-900 that reflects your creditworthiness based on your 
+history of loan repayments, credit card usage, and debt levels. Above 750 is 
+good; above 800 is excellent. Checked by all lenders before approving loans.
+
+48. NPA (Non-Performing Asset)
+A bank loan on which repayment of principal or interest has been overdue for 
+more than 90 days. When a borrower stops paying, the loan becomes an NPA. 
+High NPA ratios in a bank's portfolio indicate poor loan quality and potential 
+financial stress.
+
+49. TDS (Tax Deducted at Source)
+Tax automatically deducted from income before it reaches you. Your employer 
+deducts TDS from your salary. Banks deduct TDS from FD interest if it exceeds 
+₹40,000/year (₹50,000 for senior citizens). TDS is an advance payment of income 
+tax — it is reconciled when you file your annual tax return.
+
+50. Form 16
+The certificate your employer provides each year showing your total salary, all 
+deductions, and TDS deducted. Required for filing your income tax return. Keeps 
+a complete record of your employment income and tax paid.
+
+================================================================
+SECTION E: GLOBAL ECONOMIC AND COMMODITY TERMS
+================================================================
+
+51. Spot Price
+The current market price for immediate purchase and delivery of a commodity 
+like gold, oil, or foreign currency. What you see quoted on financial websites 
+for gold ($2,500/ounce) is the spot price.
+
+52. Futures Contract
+An agreement to buy or sell an asset at a predetermined price at a specified 
+future date. OPEC+ uses oil futures to hedge production. Speculators use 
+commodity futures to profit from price movements. Futures prices can differ 
+from spot prices based on expected future supply and demand.
+
+53. Hedging
+Taking a financial position designed to offset potential losses in another 
+position. An airline hedges oil price risk by buying oil futures — if oil 
+prices rise, the futures gain offsets higher fuel costs. A gold miner hedges 
+by selling gold futures — if gold prices fall, the futures position gains.
+
+54. Brent Crude
+The internationally used benchmark for crude oil pricing, extracted from the 
+North Sea. Most global oil is priced with reference to Brent. WTI (West Texas 
+Intermediate) is the US benchmark. India's oil imports are primarily priced 
+against Brent.
+
+55. OPEC (Organization of Petroleum Exporting Countries)
+A group of 13 major oil-producing countries (Saudi Arabia, UAE, Iraq, Kuwait, 
+Venezuela, and others) that coordinate production levels to influence global 
+oil prices. OPEC+ includes Russia and several other non-OPEC producers in 
+a broader coordination agreement.
+
+56. Currency Reserve
+Foreign currencies held by a country's central bank. India holds approximately 
+$620-650 billion in foreign exchange reserves — used to defend the rupee 
+against sharp depreciation by selling dollars when the rupee falls too fast.
+
+57. DXY (Dollar Index)
+A measure of the US dollar's strength against a basket of six major currencies 
+(Euro, Japanese Yen, British Pound, Canadian Dollar, Swedish Krona, Swiss Franc). 
+A rising DXY means the dollar is strengthening globally — which typically 
+weakens all other currencies, including the rupee.
+
+58. Purchasing Power Parity (PPP)
+A theory that in the long run, exchange rates should adjust so that identical 
+goods cost the same in different countries when measured in a common currency. 
+Used to compare living standards across countries — India's GDP adjusted for 
+PPP is much higher than its nominal GDP because goods and services cost less 
+in India than in developed countries.
+
+59. Sovereign Credit Rating
+An assessment by rating agencies (Moody's, S&P, Fitch) of a country's 
+creditworthiness — the risk of it defaulting on its government debt. India's 
+current rating is BBB- (S&P/Fitch) and Baa3 (Moody's) — the lowest investment 
+grade. A downgrade below investment grade would raise India's borrowing costs 
+globally and could trigger capital outflows.
+
+60. Remittances
+Money sent home by workers living abroad. India is the world's largest recipient 
+of remittances — approximately $120 billion annually (2023-24). This is a major 
+source of foreign exchange inflow that supports the rupee and supplements 
+household incomes in states like Kerala, UP, Bihar, and Rajasthan.
+
+================================================================
+SECTION F: GOVERNMENT FINANCE TERMS
+================================================================
+
+61. Union Budget
+The annual financial statement of the Government of India presented to Parliament 
+(typically on February 1st). Sets tax rates, government spending priorities, 
+borrowing plans, and sector-specific policies for the coming financial year.
+
+62. Direct Tax
+Tax levied directly on income or wealth — the taxpayer pays it directly to the 
+government. Income tax, corporate tax, and capital gains tax are direct taxes.
+
+63. Indirect Tax
+Tax levied on goods and services — collected by businesses and passed to the 
+government. GST (Goods and Services Tax) is India's primary indirect tax. 
+Indirect taxes are "invisible" in the sense that you pay them as part of a 
+product's price without a separate bill — but everyone pays them, regardless 
+of income level.
+
+64. GST (Goods and Services Tax)
+India's unified consumption tax, replacing a patchwork of central and state 
+taxes in 2017. Four main rates: 0% (essential foods, healthcare), 5% (basic goods), 
+12% and 18% (most goods and services), and 28% (luxury goods, sin goods). 
+Businesses above ₹40 lakh annual turnover must register for GST.
+
+65. Disinvestment
+The government selling its ownership stake in public sector companies. The 
+government earns revenue from disinvestment which can reduce the fiscal deficit. 
+Major disinvestments in recent years include the sale of Air India to Tata Group 
+and partial stake sales in various PSUs (Public Sector Undertakings).
+
+66. Subsidy
+Government financial support that reduces the cost of goods or services for 
+recipients. India provides subsidies on fertilizers (reducing farmer input costs), 
+LPG cooking gas (reducing household fuel costs), food grains through PDS (Public 
+Distribution System), and historically on petrol and diesel. Subsidies consume a 
+significant portion of government expenditure.
+
+================================================================
+SECTION G: EMERGING CONCEPTS AND FINTECH TERMS
+================================================================
+
+67. UPI (Unified Payments Interface)
+India's real-time digital payment infrastructure that enables instant money 
+transfers between bank accounts using a smartphone app. Processed over 
+15 billion transactions per month as of 2024 — the most successful digital 
+payment system in the world by transaction volume.
+
+68. CBDC (Central Bank Digital Currency)
+A digital version of a country's currency issued by its central bank. The RBI 
+launched the e-Rupee (digital rupee) as a pilot in 2022-23. Unlike cryptocurrency, 
+CBDCs are legal tender backed by the government — not speculative assets.
+
+69. Cryptocurrency
+Digital currencies that use cryptography for security and operate on decentralized 
+blockchain networks. Bitcoin and Ethereum are the most prominent examples. In India, 
+crypto gains are taxed at 30% (flat) with no deduction for losses. Crypto is highly 
+speculative — prices can fall 80-90% in a bear market. It is not a substitute for 
+regulated investments for ordinary households.
+
+70. Account Aggregator (AA) Framework
+A regulatory framework enabling consented sharing of financial data across 
+institutions. With your permission, an AA can share your bank statements, investment 
+holdings, and insurance data with a lender — enabling faster, fairer credit 
+assessment based on actual financial behavior rather than just CIBIL score.
+
+71. ONDC (Open Network for Digital Commerce)
+India's government-initiated open protocol for e-commerce, designed to break the 
+duopoly of large platforms and enable any buyer to connect with any seller through 
+any compatible app. Aims to give small businesses access to digital commerce 
+without being dependent on Amazon or Flipkart.
+
+72. Fintech
+Financial technology — companies using technology to provide financial services 
+more efficiently than traditional banks. Examples: Zerodha (stock broking), 
+Groww (mutual funds), Razorpay (payment processing), PhonePe (payments), 
+PolicyBazaar (insurance comparison). Fintech has dramatically reduced the cost 
+and improved the accessibility of financial services in India.
+
+================================================================
+SECTION H: COMMONLY MISUNDERSTOOD TERMS
+================================================================
+
+73. Return vs Risk-Adjusted Return
+Raw return tells you how much you earned. Risk-adjusted return tells you how 
+much you earned per unit of risk taken. A fund returning 15% with extreme 
+volatility may be less "good" than one returning 12% with low volatility, 
+depending on your need for stability. The Sharpe Ratio is the standard 
+risk-adjusted return measure.
+
+74. Real vs Nominal Interest Rate
+Nominal rate is the stated interest rate. Real rate = Nominal rate minus 
+Inflation. A savings account offering 4% when inflation is 6% has a negative 
+real rate of -2% — you are losing purchasing power despite earning interest.
+
+75. Absolute Return vs CAGR
+Absolute return is total growth from start to end: ₹1 lakh grows to ₹2 lakh = 
+100% absolute return. CAGR (Compound Annual Growth Rate) annualises this: 
+if the 100% return took 10 years, CAGR is approximately 7.2%. Always use CAGR 
+when comparing investments of different durations.
+
+76. Liquidity Risk
+The risk of not being able to sell an investment quickly at a fair price. 
+Real estate has high liquidity risk. Stocks have low liquidity risk during 
+normal market conditions but can temporarily become illiquid during severe 
+market disruptions.
+
+77. Counterparty Risk
+The risk that the other party in a financial transaction defaults or fails. 
+When you deposit money in a bank, the bank is your counterparty — if it fails, 
+you face counterparty risk. DICGC insurance (up to ₹5 lakh) limits this risk 
+for bank deposits.
+
+78. Opportunity Cost
+The value of the next-best alternative you give up when making a choice. 
+If you keep ₹5 lakh in a savings account earning 4% instead of investing 
+it in PPF earning 7.1%, the opportunity cost is 3.1% annually — the 
+return you are forgoing.
+
+79. Sunk Cost Fallacy
+The tendency to continue an action because of previously invested resources 
+(money, time, effort) even when it no longer makes rational sense. "I've already 
+invested ₹2 lakh in this stock — I can't sell at a loss" is a classic sunk cost 
+fallacy. Past losses are irrelevant to future decisions. The correct question 
+is always: "Given where I am NOW, what is the best forward-looking choice?"
+
+80. Dollar-Cost Averaging (DCA)
+Investing fixed amounts at regular intervals regardless of market conditions — 
+the investment concept underlying SIPs. Mathematically identical to rupee-cost 
+averaging. Proven to produce better outcomes than lump-sum investing for most 
+retail investors because it removes market timing from the equation.
+
+================================================================
+SECTION I: TERMS FROM THE NEWS YOU SHOULD UNDERSTAND
+================================================================
+
+81. Yield Curve
+A graph showing interest rates on government bonds of different maturities (1 month 
+to 30 years). Normally slopes upward (longer duration = higher yield = more 
+compensation for longer commitment). An "inverted yield curve" (short-term rates 
+higher than long-term) has historically predicted recessions in the US.
+
+82. Credit Default Swap (CDS)
+A financial derivative that acts like insurance against a borrower defaulting on 
+debt. If you hold Indian government bonds and buy a CDS, you receive a payment 
+if India defaults. CDS spreads (the cost of this insurance) reflect market-perceived 
+default risk for a country or company. Rising CDS spreads on a country's debt signal 
+growing default concerns.
+
+83. Bailout
+When the government uses public money to rescue a failing bank or company — 
+preventing collapse but using taxpayer funds. India's bank recapitalisation 
+programs (injecting capital into struggling PSU banks) were effectively bailouts 
+funded through government bonds.
+
+84. Bail-in
+The opposite of bailout — using a bank's own depositors and bondholders to rescue 
+it rather than taxpayer money. Depositors above the insured limit can have 
+their savings converted to bank equity in a bail-in scenario. Not yet used in 
+India but possible under global banking regulations — another reason to stay 
+within DICGC insurance limits.
+
+85. Quantitative Tightening (QT)
+The reverse of quantitative easing. The central bank sells the bonds it previously 
+purchased, withdrawing money from the financial system and reducing its balance 
+sheet. The US Fed began QT in 2022 to fight inflation, reducing liquidity globally.
+
+86. Systemic Risk
+Risk that affects the entire financial system rather than one institution. If a 
+major bank fails and triggers failures of other banks, the risk has become systemic. 
+Governments typically intervene to prevent systemic risk because the economic 
+damage of a financial system collapse is far greater than the cost of intervention.
+
+87. Capital Flight
+When investors and individuals rapidly move money out of a country — usually 
+due to political instability, currency collapse risk, or poor economic governance. 
+Capital flight weakens the currency, raises borrowing costs, and can create a 
+self-reinforcing crisis. Seen in Argentina, Venezuela, Turkey in recent years.
+
+88. Sovereign Default
+When a country fails to repay its government debt obligations. Sri Lanka's 2022 
+default (the first in its modern history) is a recent example. Greece's 2015 crisis 
+required an EU/IMF bailout to avoid formal default. Sovereign defaults cause 
+currency collapse, loss of international credit access, and severe economic 
+contraction.
+
+89. Import Substitution
+Government policy of supporting domestic production of goods to reduce import 
+dependence. India's PLI (Production Linked Incentive) scheme for electronics, 
+pharmaceuticals, and other sectors is a form of import substitution policy.
+
+90. Export-Led Growth
+Economic development strategy based on growing through export earnings rather 
+than domestic consumption. China's economic miracle was largely export-led. 
+India relies more on domestic consumption — making it somewhat more resilient 
+to global demand shocks but less able to grow through external demand.
+
+================================================================
+SECTION J: FINAL 10 — CONCEPTS THAT CHANGE HOW YOU THINK
+================================================================
+
+91. Time Value of Money
+₹1,000 today is worth more than ₹1,000 a year from now because today's money 
+can be invested to earn returns. All of financial planning is built on this 
+principle. It is why delaying investments has a real cost.
+
+92. Asymmetric Risk
+A situation where the potential upside and downside are not equal. Gold is an 
+asymmetric asset in some ways — in a crisis, it can rise substantially, while 
+in calm times it may only modestly underperform. Understanding asymmetric risk 
+helps in constructing a portfolio that limits catastrophic losses while 
+preserving upside.
+
+93. Moral Hazard
+When protection from consequences encourages riskier behavior. Bank deposit 
+insurance creates mild moral hazard (depositors don't investigate bank safety 
+because they're insured). Too-big-to-fail bank bailouts create moral hazard 
+(banks take excessive risks knowing they'll be rescued). A well-understood 
+concept in policy design.
+
+94. Principal-Agent Problem
+A conflict of interest between someone who acts (the agent) and the person 
+they work for (the principal). Your stockbroker recommends frequent trades 
+because commissions benefit them (agent) even when infrequent trading 
+benefits you (principal). Understanding this helps evaluate whose advice 
+to trust in financial services.
+
+95. Network Effect
+When a product or service becomes more valuable as more people use it. 
+UPI has a network effect — more merchants accepting UPI makes it more 
+valuable for consumers, which attracts more consumers, which attracts 
+more merchants. Explains why dominant platforms are hard to displace.
+
+96. Diminishing Marginal Utility
+Each additional unit of something provides less additional satisfaction than 
+the previous unit. The first lakh of savings dramatically increases your financial 
+security. The second lakh matters less. The tenth lakh matters less still. 
+This is why maximizing basic financial security (emergency fund, insurance, 
+debt elimination) should precede maximizing investment returns.
+
+97. Pareto Principle (80/20 Rule)
+80% of results come from 20% of causes. In personal finance: 80% of your 
+financial progress will come from 20% of actions (automating savings, 
+eliminating high-cost debt, buying insurance, consistently investing). 
+The other 80% of financial decisions — optimizing which specific index fund, 
+timing the market, finding the best FD rate — matter much less.
+
+98. Regret Minimisation
+Making financial decisions based on what you will regret least in the long run, 
+not just what seems optimal today. Jeff Bezos famously used this framework for 
+his decision to start Amazon. In personal finance: "Will I regret not starting 
+to invest at age 30 when I am 60?" is a powerful reframe that cuts through 
+short-term hesitation.
+
+99. Behavioral Finance
+The study of how psychological biases affect financial decisions. Key biases: 
+loss aversion (fear of losing ₹1,000 is stronger than joy of gaining ₹1,000), 
+overconfidence (most investors think they are above average), herding 
+(buying what everyone else is buying at the top), and recency bias 
+(assuming recent trends will continue). Knowing these biases doesn't make you 
+immune but can prompt you to pause before acting on them.
+
+100. Compounding — The Eighth Wonder
+Albert Einstein is often (perhaps apocryphally) quoted calling compound interest 
+the eighth wonder of the world. Whether he said it or not, the sentiment is 
+mathematically correct. A 25-year-old who invests ₹5,000/month at 12% annual 
+return will have ₹3.24 crore at age 60. A 35-year-old doing the same has only 
+₹96 lakh — three times less, despite only starting 10 years later. The missing 
+₹2.28 crore is the price of those 10 years. Compounding rewards patience and 
+punishes delay more than almost any other force in personal finance.
+
+================================================================
+END OF FILE 20 — END OF COMPLETE ECONOMICS REFERENCE COLLECTION
+================================================================
+Total: 20 files covering 100+ economic topics, 6 detailed investment strategies,
+5 sector correlation analyses, 8 government schemes, 100 glossary terms, and
+comprehensive guidance for every major financial decision an ordinary Indian 
+faces across education, employment, business, investment, and retirement.
+================================================================
