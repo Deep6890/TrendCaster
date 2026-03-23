@@ -9,9 +9,7 @@ def get_client():
     return Groq(api_key=api_key)
 
 
-# -------------------------------------------------------
 # Intent Detection
-# -------------------------------------------------------
 GREETINGS = ["hi", "hello", "hey", "hii", "good morning", "good evening", "sup", "yo"]
 
 FINANCE_WORDS = [
@@ -40,9 +38,7 @@ def detect_intent(question: str) -> str:
     return "unknown"
 
 
-# -------------------------------------------------------
 # Prompt Builder - simple human language
-# -------------------------------------------------------
 def build_prompt(context: str, question: str) -> str:
     return f"""You are TrendCaster, a friendly market assistant who explains things in very simple everyday language.
 
@@ -80,10 +76,7 @@ What you can do:
 <one simple practical suggestion>
 """
 
-
-# -------------------------------------------------------
 # LLM Call
-# -------------------------------------------------------
 def generate_answer(context: str, question: str) -> str:
     prompt = build_prompt(context, question)
     client = get_client()

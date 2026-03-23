@@ -10,41 +10,29 @@ from logicalToDoc import convert_and_save
 from connector import build_vector_store, query
 from llmEngine import generate_answer, detect_intent
 
-
-# -------------------------------------------------------
-# Phase 1: Convert latest market JSON → RAG .txt document
-# -------------------------------------------------------
+# Convert latest market JSON → RAG .txt document
 def update_market_doc(llm_input_dict):
     output_dir = os.path.join(BASE_DIR, "LogicalData")
     convert_and_save(llm_input_dict, output_dir)
     print("[RAG] Market document updated")
 
-
-# -------------------------------------------------------
-# Phase 2: Rebuild vector store from all documents
-# -------------------------------------------------------
+# Rebuild vector store from all documents
 def rebuild_index():
     print("[RAG] Rebuilding vector index...")
     build_vector_store()
     print("[RAG] Index ready")
 
 
-# -------------------------------------------------------
-# Phase 3: Query - retrieve context for user question
-# -------------------------------------------------------
+# Query - retrieve context for user question
 def retrieve_context(user_question, n_results=5):
     docs, metas = query(user_question, n_results=n_results)
 
     context = ""
     for i, (doc, meta) in enumerate(zip(docs, metas)):
         context += f"[Source: {meta['source']}]\n{doc}\n\n"
-
     return context.strip()
 
-
-# -------------------------------------------------------
-# Phase 4: Ask - full RAG + LLM answer with intent routing
-# -------------------------------------------------------
+# Ask - full RAG + LLM answer with intent routing
 def ask_rag(user_question: str) -> str:
     intent = detect_intent(user_question)
 
@@ -62,20 +50,14 @@ def ask_rag(user_question: str) -> str:
     answer  = generate_answer(context, user_question)
     return answer
 
-
-# -------------------------------------------------------
 # Full pipeline: update doc + rebuild index
-# -------------------------------------------------------
 def run_rag_pipeline(llm_input_dict):
     print("\n[RAG] Starting RAG Pipeline...\n")
     update_market_doc(llm_input_dict)
     rebuild_index()
     print("\n[RAG] Pipeline Complete\n")
 
-
-# -------------------------------------------------------
 # Standalone test
-# -------------------------------------------------------
 if __name__ == "__main__":
     rebuild_index()
 

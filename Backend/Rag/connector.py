@@ -19,30 +19,22 @@ def get_collection():
     client = get_client()
     return client.get_or_create_collection("market_rag")
 
-
-# -------------------------------------------------------
 # Hash helpers - track what's already indexed
-# -------------------------------------------------------
 def load_hashes() -> dict:
     if os.path.exists(HASH_FILE):
         with open(HASH_FILE, "r") as f:
             return json.load(f)
     return {}
 
-
 def save_hashes(hashes: dict):
     os.makedirs(os.path.dirname(HASH_FILE), exist_ok=True)
     with open(HASH_FILE, "w") as f:
         json.dump(hashes, f)
 
-
 def chunk_hash(text: str) -> str:
     return hashlib.md5(text.encode()).hexdigest()
 
-
-# -------------------------------------------------------
 # Build / update vector store (only adds new chunks)
-# -------------------------------------------------------
 def build_vector_store():
     from spliter import get_chunks
 
@@ -81,10 +73,7 @@ def build_vector_store():
     print(f"[RAG] Total chunks in store: {collection.count()}")
     return collection
 
-
-# -------------------------------------------------------
 # Query - LogicalData gets highest priority
-# -------------------------------------------------------
 def query(user_question: str, n_results: int = 5):
     collection      = get_collection()
     query_embedding = model.encode([user_question])[0].tolist()
