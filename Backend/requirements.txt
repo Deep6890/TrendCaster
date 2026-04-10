@@ -1,3 +1,4 @@
+# ── Core Data Science ─────────────────────────────────
 flask
 flask-cors
 yfinance
@@ -5,3 +6,25 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+python-dotenv
+
+# ── Database ──────────────────────────────────────────
+mysql-connector-python
+
+# ── LLM / AI ─────────────────────────────────────────
+groq
+
+# ── LangChain Stack ───────────────────────────────────
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+chromadb
+sentence-transformers
+
+# ── LlamaIndex Stack (PDF + advanced indexing) ────────
+llama-index
+llama-index-core
+llama-index-readers-file
+pypdf

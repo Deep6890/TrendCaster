@@ -1,56 +1,14 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-23",
   "macro_regime": {
     "current_factors": {
-      "PC1": -6.296,
-      "PC2": -6.808,
-      "PC3": -2.093,
-      "PC4": -7.076,
-      "PC5": -2.786
+      "PC1": -6.867,
+      "PC2": 6.115,
+      "PC3": -1.165,
+      "PC4": 6.581,
+      "PC5": -4.336
     },
     "recent_factor_trend": {
-      "2026-03-03": {
-        "pc1": -2.436,
-        "pc2": -5.882,
-        "pc3": 3.6,
-        "pc4": -5.034,
-        "pc5": -2.598
-      },
-      "2026-03-04": {
-        "pc1": -2.444,
-        "pc2": -6.225,
-        "pc3": 3.385,
-        "pc4": -5.011,
-        "pc5": -2.802
-      },
-      "2026-03-05": {
-        "pc1": -3.362,
-        "pc2": -6.478,
-        "pc3": 3.406,
-        "pc4": -5.411,
-        "pc5": -2.642
-      },
-      "2026-03-06": {
-        "pc1": -3.525,
-        "pc2": -6.348,
-        "pc3": -3.124,
-        "pc4": -4.521,
-        "pc5": -2.955
-      },
-      "2026-03-09": {
-        "pc1": -4.229,
-        "pc2": -6.512,
-        "pc3": -3.041,
-        "pc4": -5.043,
-        "pc5": -2.823
-      },
-      "2026-03-10": {
-        "pc1": -4.755,
-        "pc2": -6.691,
-        "pc3": -2.962,
-        "pc4": -5.7,
-        "pc5": -2.587
-      },
       "2026-03-11": {
         "pc1": -5.067,
         "pc2": -6.663,
@@ -73,217 +31,259 @@
         "pc5": -2.712
       },
       "2026-03-14": {
-        "pc1": -6.296,
-        "pc2": -6.808,
-        "pc3": -2.093,
-        "pc4": -7.076,
-        "pc5": -2.786
+        "pc1": -6.297,
+        "pc2": -6.812,
+        "pc3": -2.09,
+        "pc4": -7.072,
+        "pc5": -2.812
+      },
+      "2026-03-16": {
+        "pc1": -6.386,
+        "pc2": -7.011,
+        "pc3": -1.807,
+        "pc4": -6.931,
+        "pc5": -3.108
+      },
+      "2026-03-17": {
+        "pc1": -6.339,
+        "pc2": -6.49,
+        "pc3": -1.998,
+        "pc4": 6.55,
+        "pc5": -2.828
+      },
+      "2026-03-18": {
+        "pc1": -6.384,
+        "pc2": 6.255,
+        "pc3": -1.861,
+        "pc4": 6.021,
+        "pc5": 3.182
+      },
+      "2026-03-19": {
+        "pc1": -5.394,
+        "pc2": 5.884,
+        "pc3": -1.189,
+        "pc4": 5.756,
+        "pc5": 3.453
+      },
+      "2026-03-20": {
+        "pc1": -6.444,
+        "pc2": 5.877,
+        "pc3": -1.222,
+        "pc4": 7.015,
+        "pc5": -4.254
+      },
+      "2026-03-23": {
+        "pc1": -6.867,
+        "pc2": 6.115,
+        "pc3": -1.165,
+        "pc4": 6.581,
+        "pc5": -4.336
       }
     }
   },
   "market_structure": {
-    "average_cross_asset_correlation_60d": 0.054,
-    "correlation_dispersion_60d": 0.618
+    "average_cross_asset_correlation_60d": 0.056,
+    "correlation_dispersion_60d": 0.604
   },
   "asset_states": {
     "Energy Sector": {
-      "trend_strength": 0.364,
-      "trend_consistency": 0.534,
-      "momentum_acceleration": 0.212,
-      "cycle_position": 1.41,
-      "volatility_regime": -1.192,
-      "score": 0.265
-    },
-    "Gold": {
-      "trend_strength": 1.961,
-      "trend_consistency": 0.809,
-      "momentum_acceleration": -2.833,
-      "cycle_position": -0.601,
-      "volatility_regime": -1.458,
-      "score": -0.424
-    },
-    "IT Sector": {
-      "trend_strength": 0.188,
-      "trend_consistency": 0.519,
-      "momentum_acceleration": -1.007,
-      "cycle_position": -2.008,
-      "volatility_regime": -1.485,
-      "score": -0.759
-    },
-    "Crude Oil": {
-      "trend_strength": 3.463,
-      "trend_consistency": 2.808,
-      "momentum_acceleration": -1.32,
-      "cycle_position": 3.627,
-      "volatility_regime": -2.778,
-      "score": 1.16
-    },
-    "Sensex": {
-      "trend_strength": -0.67,
-      "trend_consistency": -0.274,
-      "momentum_acceleration": 0.64,
-      "cycle_position": -2.741,
-      "volatility_regime": -2.322,
-      "score": -1.073
+      "trend_strength": 0.318,
+      "trend_consistency": 0.494,
+      "momentum_acceleration": -0.222,
+      "cycle_position": 1.206,
+      "volatility_regime": -0.76,
+      "score": 0.207
     },
     "Auto Sector": {
-      "trend_strength": -0.104,
-      "trend_consistency": -0.004,
-      "momentum_acceleration": 0.601,
-      "cycle_position": -0.654,
-      "volatility_regime": -2.866,
-      "score": -0.606
+      "trend_strength": -0.412,
+      "trend_consistency": -0.288,
+      "momentum_acceleration": 0.103,
+      "cycle_position": -0.508,
+      "volatility_regime": -2.79,
+      "score": -0.779
     },
-    "Nifty": {
-      "trend_strength": -0.528,
-      "trend_consistency": -0.162,
-      "momentum_acceleration": 0.605,
-      "cycle_position": -2.233,
-      "volatility_regime": -2.233,
-      "score": -0.91
-    },
-    "Pharma Sector": {
-      "trend_strength": 0.238,
-      "trend_consistency": 0.637,
-      "momentum_acceleration": 0.691,
-      "cycle_position": 1.54,
-      "volatility_regime": -1.406,
-      "score": 0.34
-    },
-    "Realty Sector": {
-      "trend_strength": -0.722,
-      "trend_consistency": -0.836,
-      "momentum_acceleration": 1.271,
-      "cycle_position": -1.933,
-      "volatility_regime": -1.381,
-      "score": -0.72
-    },
-    "Metal Sector": {
-      "trend_strength": 1.621,
-      "trend_consistency": 1.263,
-      "momentum_acceleration": -1.555,
-      "cycle_position": 0.07,
-      "volatility_regime": -1.574,
-      "score": -0.035
-    },
-    "FMCG Sector": {
-      "trend_strength": -1.234,
-      "trend_consistency": -0.888,
-      "momentum_acceleration": 2.085,
-      "cycle_position": -2.018,
-      "volatility_regime": -1.589,
-      "score": -0.729
-    },
-    "Bank Nifty": {
-      "trend_strength": 0.089,
-      "trend_consistency": 0.428,
-      "momentum_acceleration": -0.046,
-      "cycle_position": -2.444,
-      "volatility_regime": -2.797,
-      "score": -0.954
-    },
-    "India VIX": {
-      "trend_strength": 1.942,
-      "trend_consistency": 1.577,
-      "momentum_acceleration": -0.819,
-      "cycle_position": 3.983,
-      "volatility_regime": -2.037,
-      "score": 0.929
+    "IT Sector": {
+      "trend_strength": -0.297,
+      "trend_consistency": 0.056,
+      "momentum_acceleration": -0.423,
+      "cycle_position": -1.53,
+      "volatility_regime": -1.115,
+      "score": -0.662
     },
     "USD-INR": {
-      "trend_strength": 0.884,
-      "trend_consistency": 0.589,
-      "momentum_acceleration": -1.295,
-      "cycle_position": 1.074,
-      "volatility_regime": -1.031,
-      "score": 0.044
+      "trend_strength": 0.985,
+      "trend_consistency": 0.645,
+      "momentum_acceleration": -0.508,
+      "cycle_position": 0.949,
+      "volatility_regime": -0.076,
+      "score": 0.399
+    },
+    "Metal Sector": {
+      "trend_strength": 1.45,
+      "trend_consistency": 1.082,
+      "momentum_acceleration": -1.282,
+      "cycle_position": 0.162,
+      "volatility_regime": -1.084,
+      "score": 0.065
+    },
+    "Realty Sector": {
+      "trend_strength": -1.002,
+      "trend_consistency": -1.102,
+      "momentum_acceleration": 0.818,
+      "cycle_position": -1.917,
+      "volatility_regime": -1.141,
+      "score": -0.869
+    },
+    "Bank Nifty": {
+      "trend_strength": -0.28,
+      "trend_consistency": -0.016,
+      "momentum_acceleration": -0.003,
+      "cycle_position": -2.87,
+      "volatility_regime": -2.472,
+      "score": -1.128
+    },
+    "Nifty": {
+      "trend_strength": -0.971,
+      "trend_consistency": -0.591,
+      "momentum_acceleration": 0.34,
+      "cycle_position": -2.353,
+      "volatility_regime": -2.073,
+      "score": -1.13
+    },
+    "FMCG Sector": {
+      "trend_strength": -1.532,
+      "trend_consistency": -1.138,
+      "momentum_acceleration": 1.6,
+      "cycle_position": -1.906,
+      "volatility_regime": -1.681,
+      "score": -0.931
+    },
+    "Pharma Sector": {
+      "trend_strength": 0.116,
+      "trend_consistency": 0.515,
+      "momentum_acceleration": 0.076,
+      "cycle_position": 0.893,
+      "volatility_regime": -1.505,
+      "score": 0.019
+    },
+    "India VIX": {
+      "trend_strength": 2.462,
+      "trend_consistency": 1.828,
+      "momentum_acceleration": -0.168,
+      "cycle_position": 3.578,
+      "volatility_regime": -1.96,
+      "score": 1.148
+    },
+    "Gold": {
+      "trend_strength": 1.645,
+      "trend_consistency": -0.217,
+      "momentum_acceleration": -1.076,
+      "cycle_position": -5.793,
+      "volatility_regime": -0.392,
+      "score": -1.167
+    },
+    "Sensex": {
+      "trend_strength": -1.265,
+      "trend_consistency": -0.857,
+      "momentum_acceleration": 0.405,
+      "cycle_position": -3.256,
+      "volatility_regime": -2.221,
+      "score": -1.439
+    },
+    "Crude Oil": {
+      "trend_strength": 4.37,
+      "trend_consistency": 3.558,
+      "momentum_acceleration": -1.123,
+      "cycle_position": 3.158,
+      "volatility_regime": -2.35,
+      "score": 1.522
     }
   },
   "sector_ranking": [
     {
       "rank": 1,
       "asset": "Crude Oil",
-      "score": 1.16
+      "score": 1.522
     },
     {
       "rank": 2,
       "asset": "India VIX",
-      "score": 0.929
+      "score": 1.148
     },
     {
       "rank": 3,
-      "asset": "Pharma Sector",
-      "score": 0.34
+      "asset": "USD-INR",
+      "score": 0.399
     },
     {
       "rank": 4,
       "asset": "Energy Sector",
-      "score": 0.265
+      "score": 0.207
     },
     {
       "rank": 5,
-      "asset": "USD-INR",
-      "score": 0.044
+      "asset": "Metal Sector",
+      "score": 0.065
     },
     {
       "rank": 6,
-      "asset": "Metal Sector",
-      "score": -0.035
+      "asset": "Pharma Sector",
+      "score": 0.019
     },
     {
       "rank": 7,
-      "asset": "Gold",
-      "score": -0.424
+      "asset": "IT Sector",
+      "score": -0.662
     },
     {
       "rank": 8,
       "asset": "Auto Sector",
-      "score": -0.606
+      "score": -0.779
     },
     {
       "rank": 9,
       "asset": "Realty Sector",
-      "score": -0.72
+      "score": -0.869
     },
     {
       "rank": 10,
       "asset": "FMCG Sector",
-      "score": -0.729
+      "score": -0.931
     },
     {
       "rank": 11,
-      "asset": "IT Sector",
-      "score": -0.759
+      "asset": "Bank Nifty",
+      "score": -1.128
     },
     {
       "rank": 12,
       "asset": "Nifty",
-      "score": -0.91
+      "score": -1.13
     },
     {
       "rank": 13,
-      "asset": "Bank Nifty",
-      "score": -0.954
+      "asset": "Gold",
+      "score": -1.167
     },
     {
       "rank": 14,
       "asset": "Sensex",
-      "score": -1.073
+      "score": -1.439
     }
   ],
   "market_summary": {
     "top_assets": [
       "Crude Oil",
       "India VIX",
-      "Pharma Sector",
+      "USD-INR",
       "Energy Sector",
-      "USD-INR"
+      "Metal Sector"
     ],
     "weak_assets": [
       "FMCG Sector",
-      "IT Sector",
-      "Nifty",
       "Bank Nifty",
+      "Nifty",
+      "Gold",
       "Sensex"
     ]
   }

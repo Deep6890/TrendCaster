@@ -1,19 +1,24 @@
+"""
+Rag/load.py  — LEGACY SHIM
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Old code imported `from load import all_docs`.
+This shim provides `all_docs` via the new LangChain loader so older scripts
+don't break, while new code should use loaders/txt_loader.py directly.
+"""
 import os
+import sys
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+_RAG_DIR = os.path.dirname(os.path.abspath(__file__))
+if _RAG_DIR not in sys.path:
+    sys.path.insert(0, _RAG_DIR)
 
-def load_documents(folder_path):
-    documents = []
-    full_path = os.path.join(BASE_DIR, folder_path)
+from loaders.txt_loader import load_all_txt_docs
 
-    for file in os.listdir(full_path):
-        if file.endswith(".txt"):
-            with open(os.path.join(full_path, file), "r", encoding="utf-8") as f:
-                text = f.read()
-            documents.append({"text": text, "source": file})
+# Build the list once at import time (matches old behaviour)
+_langchain_docs = load_all_txt_docs()
 
-    return documents
-
-explain_docs = load_documents("KnowledgeBasedData")
-market_docs  = load_documents("LogicalData")
-all_docs     = explain_docs + market_docs
+# Convert LangChain Documents → old dict format {text, source}
+all_docs = [
+    {"text": d.page_content, "source": d.metadata.get("source", "unknown")}
+    for d in _langchain_docs
+]

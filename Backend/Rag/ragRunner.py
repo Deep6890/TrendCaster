@@ -1,68 +1,123 @@
+"""
+Rag/ragRunner.py
+
+TrendCaster RAG Pipeline Orchestrator.
+
+Responsibilities:
+    1. update_market_doc  — convert latest market JSON → LogicalData .txt
+    2. rebuild_index      — rebuild both LangChain + LlamaIndex stores
+    3. retrieve_context   — unified context retrieval (no LLM)
+    4. ask_rag            — intent routing + LLM answer (optional)
+    5. run_rag_pipeline   — called by piplineRunner after each data run
+"""
+
 import os
 import sys
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
 LOGIC_DIR = os.path.join(BASE_DIR, "..", "Logic")
-sys.path.append(BASE_DIR)
-sys.path.append(LOGIC_DIR)
 
-from logicalToDoc import convert_and_save
-from connector import build_vector_store, query
-from llmEngine import generate_answer, detect_intent
+for _p in [BASE_DIR, LOGIC_DIR]:
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-# Convert latest market JSON → RAG .txt document
-def update_market_doc(llm_input_dict):
+
+# ── Step 1: Update market document ───────────────────────────────────────────
+
+def update_market_doc(llm_input_dict: dict) -> str:
+    """Convert latest market JSON → readable .txt in LogicalData/."""
+    from logicalToDoc import convert_and_save
     output_dir = os.path.join(BASE_DIR, "LogicalData")
-    convert_and_save(llm_input_dict, output_dir)
+    path = convert_and_save(llm_input_dict, output_dir)
     print("[RAG] Market document updated")
-
-# Rebuild vector store from all documents
-def rebuild_index():
-    print("[RAG] Rebuilding vector index...")
-    build_vector_store()
-    print("[RAG] Index ready")
+    return path
 
 
-# Query - retrieve context for user question
-def retrieve_context(user_question, n_results=5):
-    docs, metas = query(user_question, n_results=n_results)
+# ── Step 2: Rebuild indexes ──────────────────────────────────────────────────
 
-    context = ""
-    for i, (doc, meta) in enumerate(zip(docs, metas)):
-        context += f"[Source: {meta['source']}]\n{doc}\n\n"
-    return context.strip()
+def rebuild_index(force: bool = False):
+    """Rebuild both LangChain Chroma + LlamaIndex stores."""
+    from retriever import rebuild_all_indexes
+    rebuild_all_indexes(force=force)
+    print("[RAG] Index rebuild complete")
 
-# Ask - full RAG + LLM answer with intent routing
-def ask_rag(user_question: str) -> str:
+
+# ── Step 3: Retrieve context (NO LLM) ────────────────────────────────────────
+
+def retrieve_context(user_question: str, n_results: int = 6) -> str:
+    """
+    Retrieve relevant context chunks for a question.
+    Returns a formatted context string — does NOT call any LLM.
+    """
+    from retriever import retrieve_context as _retrieve
+    return _retrieve(user_question, n_results=n_results)
+
+
+# ── Step 4: Full RAG answer (LLM) ────────────────────────────────────────────
+
+def ask_rag(user_question: str, user_context: dict = None) -> str:
+    """Full RAG pipeline: intent → retrieve → LLM answer."""
+    from llmEngine import detect_intent, generate_answer
+
     intent = detect_intent(user_question)
 
     if intent == "greeting":
-        return "Hey! I'm TrendCaster. Ask me anything about the market - like which sector is doing well, should you buy gold, or what's happening with Nifty right now!"
-
+        return (
+            "Hey! I'm TrendCaster — your market intelligence buddy. "
+            "Ask me about Nifty, gold, any sector, or whether now's a good time to invest!"
+        )
     if intent == "identity":
-        return "I'm TrendCaster, your market buddy! I look at real market data and tell you what's going on in simple words. Ask me about any sector, gold, oil, or whether now is a good time to invest."
-
+        return (
+            "I'm TrendCaster! I analyse real quantitative market data and explain it clearly. "
+            "Ask me about sectors, gold, crude oil, macro trends, or market rankings."
+        )
     if intent == "unknown":
-        return "I'm only good at market stuff! Try asking me about gold, Nifty, crude oil, or any sector you're curious about."
+        return (
+            "I'm specialised in Indian financial markets. Try asking me about Nifty, "
+            "gold, a specific sector, or your investment options."
+        )
 
-    # finance intent - run full RAG
     context = retrieve_context(user_question)
     answer  = generate_answer(context, user_question)
     return answer
 
-# Full pipeline: update doc + rebuild index
-def run_rag_pipeline(llm_input_dict):
-    print("\n[RAG] Starting RAG Pipeline...\n")
+
+# ── Step 5: Full pipeline (called by piplineRunner.py) ───────────────────────
+
+def run_rag_pipeline(llm_input_dict: dict):
+    """
+    Called after each data pipeline run:
+        1. Save new market doc
+        2. Rebuild indexes incrementally (not force)
+    """
+    print("\n[RAG] Starting RAG Pipeline...")
     update_market_doc(llm_input_dict)
-    rebuild_index()
-    print("\n[RAG] Pipeline Complete\n")
+    rebuild_index(force=False)
+    print("[RAG] Pipeline Complete\n")
 
-# Standalone test
+
+# ── Standalone entrypoint ─────────────────────────────────────────────────────
+
 if __name__ == "__main__":
-    rebuild_index()
+    import argparse
 
-    question = "Should I invest in crude oil right now?"
-    print(f"\nQuery: {question}\n")
-    answer = ask_rag(question)
-    print("Answer:")
-    print(answer)
+    parser = argparse.ArgumentParser(description="TrendCaster RAG Runner")
+    parser.add_argument("--rebuild", action="store_true", help="Force rebuild all indexes")
+    parser.add_argument("--query", type=str, help="Run a single query")
+    args = parser.parse_args()
+
+    if args.rebuild:
+        rebuild_index(force=True)
+
+    if args.query:
+        print(f"\nQuery: {args.query}\n")
+        print(ask_rag(args.query))
+    elif not args.rebuild:
+        # Default: interactive mode
+        print("\nTrendCaster RAG — Interactive Mode (type 'exit' to quit)\n")
+        while True:
+            q = input("Your Question: ").strip()
+            if q.lower() == "exit":
+                break
+            if q:
+                print(f"\n{ask_rag(q)}\n")
